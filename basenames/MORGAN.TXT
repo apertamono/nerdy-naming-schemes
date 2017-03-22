@@ -1,0 +1,367 @@
+;
+; Sid Meier's ALPHA CENTAURI
+;
+; FACTION FILE: Morgan Industries
+;
+; Copyright (c) 1997, 1998 by Firaxis Games, Inc.
+;
+; ALPHA CENTAURI reads the rules of the game from this file at
+; startup. Feel free, at your own risk, to experiment with editing
+; this file. We recommend you make a backup copy of the original.
+;
+
+#MORGAN
+Morgan Industries, The Mogul, Morganites, M, 2, Morgan, M, -1,  0, 0, 1, 0,
+  TECH, Indust, ENERGY, 100, SOCIAL, +ECONOMY, POPULATION, 3, COMMERCE, 1, SOCIAL, -SUPPORT
+  Economics, Free Market, ECONOMY
+  Economics, Planned, nil
+  Morganic, Morgan,
+  Jeneba, Kai, The Jeneba Complex
+  CEO, shrewd, monopolistic, wealthy, bloated,
+  Filthy Money Grubber
+  dominate Planet's economy
+  to reap the rightful rewards of skillful investment and planning
+  achieving total monopolistic control of all of Planet's resources
+  achieving total monopolistic control of all of Planet's resources
+  grab every drop of Planet's wealth for yourself
+  counting his ill-gotten energy tokens
+  counting your ill-gotten energy tokens
+  monopolistic grasping
+  monopolistic grasping, M1
+  business plans, M2
+  corporate empire-building, M1
+  investment, M1
+  exploiting Planet's natural wealth
+  Corporate Security
+  Morgan Corporate Policy
+
+#BASES
+Exxon Mobil
+JPMorgan Chase
+General Electric
+Royal Dutch Shell
+ICBC
+HSBC Holdings
+PetroChina
+Berkshire Hathaway
+Wells Fargo
+Petrobras-Petróleo Brasil
+BP
+Chevron
+China Construction Bank
+Citigroup
+Gazprom
+Wal-Mart Stores
+Volkswagen Group
+Total
+Agricultural Bank of China
+BNP Paribas
+Bank of China
+Apple
+Banco Santander
+Sinopec-China Petroleum
+Toyota Motor
+Samsung Electronics
+ConocoPhillips
+Vodafone
+ENI
+Itaú Unibanco Holding
+China Mobile
+IBM
+AT&T
+Pfizer
+Procter & Gamble
+Mitsubishi UFJ Financial
+Daimler
+American Intl Group
+ING Group
+Nestlé
+Statoil
+Microsoft
+Banco Bradesco
+Ford Motor
+Nippon Telegraph & Tel
+AXA Group
+Commonwealth Bank
+GDF Suez
+BHP Billiton
+Allianz
+Siemens
+Deutsche Bank
+Barclays
+Banco do Brasil
+MetLife
+Vale
+Telefónica
+Johnson & Johnson
+Westpac Banking Group
+Honda Motor
+BMW Group
+Novartis
+General Motors
+Sumitomo Mitsui Financial
+China Life Insurance
+Verizon Communications
+Hewlett-Packard
+Lukoil
+Rio Tinto
+Royal Bank of Canada
+Rosneft
+UBS
+EDF
+BASF
+ENEL
+National Australia Bank
+Goldman Sachs Group
+Sanofi
+ANZ
+Merck & Co
+Comcast
+TD Bank
+Bank of America
+BBVA-Banco Bilbao Vizcaya
+Nissan Motor
+Intel
+Coca-Cola
+PepsiCo
+Saudi Basic Industries
+Sberbank
+Cisco Systems
+Bank of Nova Scotia
+Anheuser-Busch InBev
+Société Générale
+Mitsubishi Corp
+Hyundai Motor
+Zurich Financial Services
+Mizuho Financial
+Glencore International
+Morgan Stanley
+Ping An Insurance Group
+Intesa Sanpaolo
+Google
+Roche Holding
+UnitedHealth Group
+Caterpillar
+Unilever
+Bank of Communications
+Oracle
+France Telecom
+Standard Chartered
+América Móvil
+Prudential Financial
+Boeing
+American Express
+Kraft Foods
+CVS Caremark
+Tesco
+GlaxoSmithKline
+United Technologies
+Walt Disney
+US Bancorp
+Prudential
+Reliance Industries
+Credit Suisse Group
+China Shenhua Energy
+Abbott Laboratories
+Schlumberger
+Hitachi
+ArcelorMittal
+Iberdrola
+Xstrata
+Mitsui & Co
+Suncor Energy
+Nordea Bank
+Bayer Group
+Ecopetrol
+UniCredit Group
+Anglo American
+Repsol YPF
+Dow Chemical
+AstraZeneca
+RWE Group
+Home Depot
+Occidental Petroleum
+Cnooc
+Bank of Montreal
+State Bank of India
+Canon
+TNK-BP Holding
+Posco
+Møller-Maersk
+Shanghai Pudong Dev Bk
+Itaúsa
+China Telecom
+Hon Hai Precision
+Generali Group
+News Corp
+Target
+China Merchants Bank
+Vinci
+EI du Pont de Nemours
+Philip Morris International
+Hutchison Whampoa
+Telecom Italia
+BG Group
+PTT PCL
+United Parcel Service
+Swiss Re
+Jardine Matheson
+Oil & Natural Gas
+Canadian Imperial Bank
+Dell
+EADS
+British American Tobacco
+JX Holdings
+Time Warner
+National Grid
+PNC Financial Services
+Munich Re
+Vivendi
+Capital One Financial
+McDonald's
+Volvo Group
+WellPoint
+ABB
+Renault
+Wesfarmers
+Softbank
+Deere & Co
+KDDI
+Bank of New York Mellon
+Deutsche Telekom
+3M
+Schneider Electric
+Telstra
+Saint-Gobain
+Apache
+Sumitomo Corp
+Surgutneftegas
+#END
+
+#WATERBASES
+Colón
+Dinar
+Dirham
+Dollar
+Euro
+Frank
+Kroon
+Kwacha
+Leu
+Manat
+Peso
+Real
+Roebel
+Pond
+Sterling
+Roepie
+Shilling
+Won
+Afghani
+Kwanza
+Florin
+Lek
+Dram
+Taka
+Ngultrum
+Mark
+Boliviano
+Pula
+Lev
+Renminbi
+Yuan
+Nakfa
+Birr
+Lari
+Quetzal
+Dalasi
+Cedi
+Gourde
+Lempira
+Forint
+Shekel
+Yen
+Escudo
+Tenge
+Kuna
+Kip
+Lats
+Loti
+Litas
+Pataca
+Ariary
+Ringgit
+Ouguiya
+Metical
+Dirham
+Tugrik
+Kyat
+Córdoba
+Naira
+Sum
+Grivna
+Kina
+Sol
+Zloty
+Balboa
+Guaraní
+Dobra
+Lilangeni
+Tala
+Leone
+Somoni
+Baht
+Lira
+Vatu
+Bolivar
+Dong
+Rand 
+#END
+
+#BLURB
+^  Human behavior is economic behavior. The particulars may vary,
+but competition for limited resources remains a constant. Need
+as well as greed have followed us to the stars, and the rewards
+of wealth still await those wise enough to recognize this deep
+thrumming of our common pulse.
+^
+^        -- CEO Nwabudike Morgan,
+^           "The Centauri Monopoly"
+
+#DATALINKS1
+^LEADER: {CEO Nwabudike Morgan}
+^BACKGROUND: {Namibian Diamond Tycoon, Unity Franchise Holder}
+^AGENDA: {Free Market Economics, Pro-Industry}
+^TECH: {Industrial Base}
+^
+
+#DATALINKS2
+^+1 ECONOMY:  {Industrial conglomerate}
+^-1 SUPPORT:  {Followers have expensive tastes}
+^COMMERCE: {bonus increases value of treaties, pacts, loans}
+^Begins with 100 extra energy credits.
+^Need HAB COMPLEX for bases to exceed size 4: {Creature comforts at a premium}
+^{May not use Planned Economics.}
+
+#FACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"Vendetta is bad for business, $NAME1. I suggest
+we pledge Blood Truce and get back to work."
+
+"Fair enough. I shall order hostilities to cease."
+"Sorry, $NAME3, but I plan to put you out of business."
+
+#FACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"Friend $NAME1, I can offer lucrative trading arrangements
+if you will agree to a Treaty of Friendship. Shall we
+become business partners?"
+
+"By all means. Let us prosper together in peace."
+"No. All of the profit would find its way into your pocket."
+
+
+# ; This line must remain at end of file
+

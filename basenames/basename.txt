@@ -1,0 +1,233 @@
+;
+; Sid Meier's ALPHA CENTAURI
+;
+; Alpha Centauri Base Names
+;
+; Copyright (c) 1997, 1998 by Firaxis Games, Inc.
+;
+
+; Faction specific names moved to faction files --BR
+
+#INVERTLIST
+6
+Garden
+Gaia's
+The
+Morgan
+Lab
+U.N.
+
+; Main and recurring Star Trek characters from all series (except TAS)
+; Source: http://en.wikipedia.org/wiki/List_of_Star_Trek_characters
+; Named characters from the Star Trek films - up to 'Star Trek' (2009)
+; Source: http://en.memory-alpha.org/wiki/Star_Trek_films
+
+#GENERIC
+Christopher Pike
+Spock
+Number One
+J.M. Colt
+Phillip Boyce
+José Tyler
+Garrison
+James T. Kirk
+Leonard McCoy
+Montgomery Scott
+Hikaru Sulu
+Nyota Uhura
+Pavel Chekov
+Christine Chapel
+Janice Rand
+Jean-Luc Picard
+Will Riker
+Data
+Geordi La Forge
+Worf
+Beverly Crusher
+Katherine Pulaski
+Deanna Troi
+Tasha Yar
+Wesley Crusher
+Alexander Rozhenko
+Lore
+Alyssa Ogawa
+Guinan
+Keiko O'Brien
+Kurn
+Q
+Reginald Barclay
+Ro Laren
+Sela
+Sarek
+Miles O'Brien
+Gowron
+Robin Lefler
+Vash
+Benjamin Sisko
+Kira Nerys
+Odo
+Julian Bashir
+Jadzia Dax
+Ezri Dax
+Jake Sisko
+Quark
+Elim Garak
+Martok
+Rom
+Nog
+Leeta
+Gul Dukat
+Weyoun
+Kathryn Janeway
+Chakotay
+Tuvok
+B'Elanna Torres
+Tom Paris
+Harry Kim
+Neelix
+Kes
+Seven of Nine
+Seska
+Vorik
+Naomi Wildman
+Ayala
+Nozawa Kashimuro
+Samantha Wildman
+Joseph Carey
+Hogan
+Susan Nicoletti
+Michael Jonas
+Walter Baxter
+Icheb
+Mezoti
+Rebi
+Azan
+Lon Suder
+Peter Durst
+Tal Celes
+Braxton
+Owen Paris
+Jonathan Archer
+T'Pol
+Charles Tucker III
+Malcolm Reed
+Hoshi Sato
+Travis Mayweather
+Phlox
+Porthos
+Maxwell Forrest
+Erika Hernandez
+Soval
+Silik
+Elizabeth Cutler
+Degra
+J. Hayes
+Thy'lek Shran
+Daniels
+Michael Rostov
+Ilia
+Willard Decker
+Branch
+Sonak
+DiFalco
+Ross
+Cleary
+Khan Noonien Singh
+Carol Marcus
+David Marcus
+Clark Terrell
+Saavik
+Peter Preston
+Jedda
+Kyle
+Beach
+Madison
+March
+Foster
+Harry Morrow
+Valkris
+Kruge
+Torg
+Maltz
+J.T. Esteban
+Styles
+T'Lar
+Amanda Grayson
+Gillian Taylor
+Cartwright
+Trillya
+Joel Randolph
+Bob Briggs
+Joe 
+Nichols
+Rogerson
+St. John Talbot
+Sybok
+Korrd
+Caithlin Dar
+Klaa
+Vixis
+J'onn
+Sha Ka Ree
+David McCoy
+Valeris
+Chang
+Azetbur
+Gorkon
+Kerla
+Stex
+Dmitri Valtane
+Lojur
+Martia
+Nanclus
+Dax
+Tolian Soran
+John Harriman
+Demora Sulu
+Farrell
+Lursa
+B'Etor
+Elise Picard
+René Picard
+Matthew Picard
+Mimi Picard
+Thomas Picard
+Madison Picard
+Olivia Picard
+Ru'afo
+Anij
+Dougherty
+Gallatin
+Sojef
+Artim
+Tournel
+Kell Perim
+Daniels
+Curtis
+Hars Adislo
+Cuzar
+B-4
+Shinzon
+Tal'aura
+Donatra
+Suran
+Hiren
+Branson
+Nero
+George Kirk
+Winona Kirk
+Richard Robau
+Gaila
+Ayel
+Pitts
+Johnny
+Alnschloss K'Bentayr
+Lew
+Richard Barnett
+James Komack
+Olson
+Keenser
+#END
+
+
+# ; This line must remain at end

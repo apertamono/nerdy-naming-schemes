@@ -1,0 +1,404 @@
+;
+; Sid Meier's ALPHA CENTAURI
+;
+; FACTION FILE: The Spartan Federation
+;
+; Copyright (c) 1997, 1998 by Firaxis Games, Inc.
+;
+; ALPHA CENTAURI reads the rules of the game from this file at
+; startup. Feel free, at your own risk, to experiment with editing
+; this file. We recommend you make a backup copy of the original.
+;
+
+#SPARTANS
+Spartan Federation, The Survivalist, Spartans, M, 2, Santiago, F,  0,  1, 1, 0, 0,
+  TECH, Mobile, FREEPROTO, 0, SOCIAL, ++MORALE, SOCIAL, +POLICE, SOCIAL, -INDUSTRY
+  Values, Power, MORALE
+  Values, Wealth, nil
+  Spartan, Spartan,
+  Voki, Bonaventura, Voki's Price
+  Colonel, vigilant, paranoid, cautious, sociopathic,
+  Right-Wing Lunatic
+  exercise our rights to keep and bear arms
+  to exercise freely the God-given right to keep and bear arms
+  equipping a private army to seize control of Planet
+  equipping your private army to seize control of Planet
+  equip a private army and seize control of this world
+  polishing her beloved artillery pieces
+  polishing your beloved artillery pieces
+  having paranoid delusions
+  paranoid delusions, M2
+  military preparations, M2
+  right-wing fantasies, M2
+  stipend, M1
+  keeping the peace
+  the Spartan Paramilitary Legion
+  the Spartan Military Code
+
+#BASES
+Colt
+Brown Bess
+Warranted
+Maurer
+Siegel
+Mang
+Wanzl
+Werndl
+Plaschil
+Gasser
+Steyer
+Rast
+Tersen
+Lefaucheux
+Ahrendt
+Montigny
+Albini
+Brändlin
+MLAF
+Comblain
+Warnant
+Flobert
+Vélo-Dog
+Martini
+LAM
+Francotte
+Vetterli
+Schmidt
+Rubin
+SIG
+Stifter
+Widemann
+Kirchberger
+Poltz
+Amberg
+Ulrich
+Mauser
+Hellmann
+Dreyse
+Zig-Zag
+Cöster
+Förster
+Bartl
+Remington
+Springfield
+Borchardt
+Winchester
+Luger
+Parabellum
+Bergmann
+Pioneer
+Sharps
+Loewe
+Schmeisser
+Aubton
+Chobert
+Thonon
+Boutet
+MAS
+Arcellin
+Le Page
+MAC
+Moutier
+Goutelle
+Devisme
+Le Mat
+Girard
+Manceaux
+Glisenti
+Chassepot
+Galand
+Gras
+MAT
+Lebel
+Berthier
+Twigg
+Enfield
+Bond
+Day
+Conway
+Baker
+Manton
+Westley
+Richards
+Cogswell
+Adams
+Deane
+Tranter
+Blisset
+Kerr
+Lovell
+Greener
+Tipping
+Lawden
+Snider
+Webley
+Henry
+Moore
+Harris
+Lancaster
+Metford
+Fosbery
+Guerriero
+OCA
+Vecchi
+Bodeo
+Mannlicher
+Carcano
+RFA
+Stevens
+Beaumont
+Bär
+Harsveldt
+Nagant
+Soleil
+HDH
+Nowotny
+Donaghy
+Vitali
+Hembrug
+Paterson
+Allen
+Wheelock
+Walker
+Dragoon
+Warner
+Volcanic
+Pettengil
+North
+Savage
+Smith
+Whitney
+Starr
+Hankins
+Spencer
+Wesson
+Murray
+Richmond
+Merwin
+Bray
+Beal
+Pond
+White
+Zouave
+Teat
+Manhattan
+Cooper
+Rogers
+King
+Elliot
+Yellowboy
+Cloverleaf
+Schofield
+Harrington
+Marlin
+Peacemaker
+Thunderer
+Lightning
+Hopkins
+Kodiak
+Hotchkiss
+Diamond
+Johnson
+Bisley
+Rough Rider
+Krag
+Jorgensen
+Mosin
+Berdan
+#END
+
+#WATERBASES
+Gloire
+Warrior
+Magenta
+Terribile
+Provence
+Principe di Carignano
+Re d'Italia
+Regina Maria Pia
+Pervenets
+Numancia
+Vitoria
+Roma
+Océan
+Cerberus
+Audacious
+Swiftsure
+Devastation
+Principe Amedeo
+Superb
+Colbert
+Duilio
+Belleisle
+Ajax
+Dévastation
+Italia
+Conqueror
+Terrible
+Dingyuan
+Admiral
+Amiral Baudin
+Ruggiero di Lauria
+Colossus
+Ekaterina II
+Pelayo
+Victoria
+Marceau
+Imperator Aleksandr II
+Re Umberto
+Trafalgar
+Royal Sovereign
+Centurion
+Brandenburg
+Evertsen
+Petropavlovsk
+Monarch
+Indiana
+Majestic
+Charlemagne
+Fuji
+Emanuele Filiberto
+Kaiser Friedrich III
+Shikishima
+Peresvet
+Canopus
+Kearsarge
+Illinois
+Habsburg
+Borodino
+Regina Margherita
+Virginia
+Formidable
+Maine
+Wittelsbach
+République
+King Edward VII
+Duncan
+Swiftsure
+Erzherzog Karl
+Liberté
+Braunschweig
+Regina Elena
+Katori
+Connecticut
+Deutschland
+Evstafi
+Andrei Pervozvanny
+Mississippi
+Nassau
+Lord Nelson
+Bellerophon
+Danton
+Radetzky
+Kawachi
+St. Vincent
+South Carolina
+Minas Geraes
+Satsuma
+Delaware
+Neptune
+Colossus
+Florida
+Courbet
+Helgoland
+Gangut
+Imperatritsa Mariya
+Kaiser
+Orion
+Wyoming
+King George V
+Tegetthoff
+Andrea Doria
+König
+Iron Duke
+New York
+Rivadavia
+Bretagne
+Normandie
+Fuso
+Conte di Cavour
+Queen Elizabeth
+Bayern
+Revenge
+Nevada
+Pennsylvania
+Ise
+New Mexico
+Tennessee
+Nagato
+Colorado
+Dunkerque
+Scharnhorst
+Littorio
+Richelieu
+Bismarck
+King George V
+North Carolina
+Yamato
+South Dakota
+Iowa
+#END
+
+#BLURB
+Superior training and superior weaponry have, when taken together,
+a geometric effect on overall military strength. Well-trained,
+well-equipped troops can stand up to many more times their lesser
+brethren than linear arithmetic would seem to indicate.
+^
+^        -- Col. Corazon Santiago,
+^           "Spartan Battle Manual"
+
+#DATALINKS1
+^LEADER: {Col. Corazon Santiago}
+^BACKGROUND: {Survivalist, Unity Security Chief}
+^AGENDA: {Right To Keep And Bear Arms}
+^TECH: {Doctrine: Mobility}
+^
+
+#DATALINKS2
+^+2 MORALE:  {Well-armed survivalist movement}
+^+1 POLICE:  {Highly disciplined followers}
+^-1 INDUSTRY:  {Extravagant weapons are costly}
+^Prototype units do not cost extra minerals.
+^{May not use Wealth value in Social Engineering.}
+
+#FACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"You cannot hope to stand against me, $NAME1.
+Pledge Blood Truce now or face total destruction."
+
+"Truce it is, then. I thank you."
+"Bluffing will get you nowhere, $NAME3. Prepare to be obliterated!"
+
+#FACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"$TITLE0 $NAME1. My survivalist followers are content to guard their homes
+in armed peace. I suggest we sign a Treaty of Friendship
+and stay out of each others' way."
+
+"Fair enough, but I shall guard my borders carefully."
+"Hardly. A faction armed to the teeth hardly seems friendly to me."
+
+#ALIENFACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"You cannot hope to stand against me, $NAME1.
+Pledge Blood Truce now or face total destruction."
+
+"Destruction: to be avoided. Truce: agreed."
+"You winning: why do you offer peace? Conclusion: you losing! Rejection!"
+
+#ALIENFACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"$TITLE0 $NAME1, clearly your aims and ours are mutual: survival on
+this harsh world we've come upon. With you as Treaty partner, I will be less
+of a target for the others, and therefore my people will not suffer."
+
+"Right to defend: important. Treaty: agreeable."
+"Weaponry: belies soft words. Treaty: not advisable."
+
+# ; This line must remain at end of file
+
