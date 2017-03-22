@@ -1,0 +1,57 @@
+; Helderste hemellichamen, gezien vanaf de aarde (naar maximale magnitude)
+
+Zon
+Maan
+Venus
+Mars
+Jupiter
+Sirius
+Mercurius
+Canopus
+Saturnus
+Arcturus
+Toliman
+Vega
+Capella
+Rigel
+Procyon
+Achernar
+Betelgeuze
+Agena
+Altair
+Aldebaran
+Antares
+Spica
+Pollux
+Fomalhaut
+Becrux
+Deneb
+Acrux
+Regulus
+Adharaz
+Gacrux
+Shaula
+Bellatrix
+Al-Nath
+Miaplacidus
+Alnilam
+Al-Nair
+Alioth
+Suhail al-Muhlif
+Dubhe
+Mirphak
+Wezen
+Kaus Australis
+Alkaid
+Avior
+Sargas
+Menkalinan
+Atria
+Alhena
+Pauw
+Delta Velorum
+Alphard
+Castor
+Murzim
+Hamal
+Poolster

@@ -1,0 +1,203 @@
+; Eerste 200 bedrijven op de Forbes Global 2000
+; Berekend in april 2012, op basis van omzet, winst, activa en marktwaarde
+
+Exxon Mobil
+JPMorgan Chase
+General Electric
+Royal Dutch Shell
+ICBC
+HSBC Holdings
+PetroChina
+Berkshire Hathaway
+Wells Fargo
+Petrobras-Petróleo Brasil
+BP
+Chevron
+China Construction Bank
+Citigroup
+Gazprom
+Wal-Mart Stores
+Volkswagen Group
+Total
+Agricultural Bank of China
+BNP Paribas
+Bank of China
+Apple
+Banco Santander
+Sinopec-China Petroleum
+Toyota Motor
+Samsung Electronics
+ConocoPhillips
+Vodafone
+ENI
+Itaú Unibanco Holding
+China Mobile
+IBM
+AT&T
+Pfizer
+Procter & Gamble
+Mitsubishi UFJ Financial
+Daimler
+American Intl Group
+ING Group
+Nestlé
+Statoil
+Microsoft
+Banco Bradesco
+Ford Motor
+Nippon Telegraph & Tel
+AXA Group
+Commonwealth Bank
+GDF Suez
+BHP Billiton
+Allianz
+Siemens
+Deutsche Bank
+Barclays
+Banco do Brasil
+MetLife
+Vale
+Telefónica
+Johnson & Johnson
+Westpac Banking Group
+Honda Motor
+BMW Group
+Novartis
+General Motors
+Sumitomo Mitsui Financial
+China Life Insurance
+Verizon Communications
+Hewlett-Packard
+Lukoil
+Rio Tinto
+Royal Bank of Canada
+Rosneft
+UBS
+EDF
+BASF
+ENEL
+National Australia Bank
+Goldman Sachs Group
+Sanofi
+ANZ
+Merck & Co
+Comcast
+TD Bank
+Bank of America
+BBVA-Banco Bilbao Vizcaya
+Nissan Motor
+Intel
+Coca-Cola
+PepsiCo
+Saudi Basic Industries
+Sberbank
+Cisco Systems
+Bank of Nova Scotia
+Anheuser-Busch InBev
+Société Générale
+Mitsubishi Corp
+Hyundai Motor
+Zurich Financial Services
+Mizuho Financial
+Glencore International
+Morgan Stanley
+Ping An Insurance Group
+Intesa Sanpaolo
+Google
+Roche Holding
+UnitedHealth Group
+Caterpillar
+Unilever
+Bank of Communications
+Oracle
+France Telecom
+Standard Chartered
+América Móvil
+Prudential Financial
+Boeing
+American Express
+Kraft Foods
+CVS Caremark
+Tesco
+GlaxoSmithKline
+United Technologies
+Walt Disney
+US Bancorp
+Prudential
+Reliance Industries
+Credit Suisse Group
+China Shenhua Energy
+Abbott Laboratories
+Schlumberger
+Hitachi
+ArcelorMittal
+Iberdrola
+Xstrata
+Mitsui & Co
+Suncor Energy
+Nordea Bank
+Bayer Group
+Ecopetrol
+UniCredit Group
+Anglo American
+Repsol YPF
+Dow Chemical
+AstraZeneca
+RWE Group
+Home Depot
+Occidental Petroleum
+Cnooc
+Bank of Montreal
+State Bank of India
+Canon
+TNK-BP Holding
+Posco
+Møller-Maersk
+Shanghai Pudong Dev Bk
+Itaúsa
+China Telecom
+Hon Hai Precision
+Generali Group
+News Corp
+Target
+China Merchants Bank
+Vinci
+EI du Pont de Nemours
+Philip Morris International
+Hutchison Whampoa
+Telecom Italia
+BG Group
+PTT PCL
+United Parcel Service
+Swiss Re
+Jardine Matheson
+Oil & Natural Gas
+Canadian Imperial Bank
+Dell
+EADS
+British American Tobacco
+JX Holdings
+Time Warner
+National Grid
+PNC Financial Services
+Munich Re
+Vivendi
+Capital One Financial
+McDonald's
+Volvo Group
+WellPoint
+ABB
+Renault
+Wesfarmers
+Softbank
+Deere & Co
+KDDI
+Bank of New York Mellon
+Deutsche Telekom
+3M
+Schneider Electric
+Telstra
+Saint-Gobain
+Apache
+Sumitomo Corp
+Surgutneftegas

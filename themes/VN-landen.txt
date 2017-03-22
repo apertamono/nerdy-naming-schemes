@@ -1,0 +1,201 @@
+; Chronologische volgorde met huidige namen, incl. verdwenen landen
+; Bron: http://www.unric.org/html/nederlands/un/abcbijlagen.htm
+
+Argentinië
+Australië
+België
+Bolivia
+Brazilië
+Canada
+Chili
+China
+Colombia
+Costa Rica
+Cuba
+Denemarken
+Dominicaanse Republiek
+Ecuador
+Egypte
+El Salvador
+Ethiopië
+Filipijnen
+Frankrijk
+Griekenland
+Guatemala
+Haïti
+Honduras
+India
+Irak
+Iran
+Joegoslavië
+Libanon
+Liberia
+Luxemburg
+Mexico
+Nederland
+Nicaragua
+Nieuw-Zeeland
+Noorwegen
+Oekraïne
+Panama
+Paraguay
+Peru
+Polen
+Saoedi-Arabië
+Syrische Arabische Republiek
+Tsjechoslowakije
+Turkije
+Unie van Socialistische Sovjetrepublieken
+Uruguay
+Venezuela
+Verenigde Staten van Amerika
+Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+Wit-Rusland
+Zuid-Afrika
+Afghanistan
+IJsland
+Thailand
+Zweden
+Jemen
+Pakistan
+Myanmar
+Israël
+Indonesië
+Albanië
+Bulgarije
+Cambodja
+Democratische Volksrepubliek Laos
+Finland
+Hongarije
+Ierland
+Italië
+Jordanië
+Libië
+Nepal
+Oostenrijk
+Portugal
+Roemenië
+Spanje
+Sri Lanka
+Japan
+Marokko
+Soedan
+Tunesië
+Ghana
+Maleisië
+Guinea
+Benin
+Burkina Faso
+Centraal-Afrikaanse Republiek
+Congo
+Cyprus
+Democratische Republiek Congo
+Gabon
+Ivoorkust
+Kameroen
+Madagaskar
+Mali
+Niger
+Nigeria
+Senegal
+Somalië
+Togo
+Tsjaad
+Mauritanië
+Mongolië
+Sierra Leone
+Verenigde Republiek Tanzania
+Algerije
+Burundi
+Jamaica
+Oeganda
+Ruanda
+Trinidad en Tobago
+Kenia
+Koeweit
+Malawi
+Malta
+Zambia
+Gambia
+Malediven
+Singapore
+Barbados
+Botswana
+Guyana
+Lesotho
+Democratisch Jemen
+Equatoriaal Guinea
+Mauritius
+Swaziland
+Fiji
+Bahrein
+Bhutan
+Oman
+Katar
+Verenigde Arabische Emiraten
+Bahama's
+Duitse Bondsrepubliek
+Duitse Democratische Republiek
+Bangladesh
+Grenada
+Guinee-Bissau
+Comoren
+Kaapverdië
+Mozambique
+Papoea-Nieuw-Guinea
+Sao Tomé en Principe
+Suriname
+Angola
+Samoa
+Seychellen
+Djibouti
+Vietnam
+Dominica
+Solomoneilanden
+Saint Lucia
+Saint Vincent en de Grenadines
+Zimbabwe
+Antigua en Barbuda
+Belize
+Vanuatu
+Saint Kitts en Nevis
+Brunei Darussalam
+Liechtenstein
+Namibië
+Democratische Volksrepubliek Korea
+Estland
+Letland
+Litouwen
+Marshalleilanden
+Micronesië
+Republiek Korea
+Armenië
+Azerbeidzjan
+Bosnië-Herzegovina
+Georgië
+Kazachstan
+Kirgizië
+Kroatië
+Moldavië
+Oezbekistan
+San Marino
+Slovenië
+Tadzjikistan
+Turkmenistan
+Andorra
+Eritrea
+Monaco
+Tsjechië
+Slowakije
+Macedonië
+Palau
+Kiribati
+Nauru
+Tonga
+Tuvalu
+Servië en Montenegro
+Zwitserland
+Timor-Leste
+Servië
+Montenegro
+Zuid-Soedan

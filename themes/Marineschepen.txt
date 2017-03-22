@@ -1,0 +1,133 @@
+; Classes of ironclad battleships from the 19th and 20th centuries
+; Source: http://en.wikipedia.org/wiki/List_of_battleship_classes
+; Excluding classes that were never launched or commissioned
+
+Gloire
+Warrior
+Magenta
+Terribile
+Provence
+Principe di Carignano
+Re d'Italia
+Regina Maria Pia
+Pervenets
+Numancia
+Vitoria
+Roma
+Océan
+Cerberus
+Audacious
+Swiftsure
+Devastation
+Principe Amedeo
+Superb
+Colbert
+Duilio
+Belleisle
+Ajax
+Dévastation
+Italia
+Conqueror
+Terrible
+Dingyuan
+Admiral
+Amiral Baudin
+Ruggiero di Lauria
+Colossus
+Ekaterina II
+Pelayo
+Victoria
+Marceau
+Imperator Aleksandr II
+Re Umberto
+Trafalgar
+Royal Sovereign
+Centurion
+Brandenburg
+Evertsen
+Petropavlovsk
+Monarch
+Indiana
+Majestic
+Charlemagne
+Fuji
+Emanuele Filiberto
+Kaiser Friedrich III
+Shikishima
+Peresvet
+Canopus
+Kearsarge
+Illinois
+Habsburg
+Borodino
+Regina Margherita
+Virginia
+Formidable
+Maine
+Wittelsbach
+République
+King Edward VII
+Duncan
+Swiftsure
+Erzherzog Karl
+Liberté
+Braunschweig
+Regina Elena
+Katori
+Connecticut
+Deutschland
+Evstafi
+Andrei Pervozvanny
+Mississippi
+Nassau
+Lord Nelson
+Bellerophon
+Danton
+Radetzky
+Kawachi
+St. Vincent
+South Carolina
+Minas Geraes
+Satsuma
+Delaware
+Neptune
+Colossus
+Florida
+Courbet
+Helgoland
+Gangut
+Imperatritsa Mariya
+Kaiser
+Orion
+Wyoming
+King George V
+Tegetthoff
+Andrea Doria
+König
+Iron Duke
+New York
+Rivadavia
+Bretagne
+Normandie
+Fuso
+Conte di Cavour
+Queen Elizabeth
+Bayern
+Revenge
+Nevada
+Pennsylvania
+Ise
+New Mexico
+Tennessee
+Nagato
+Colorado
+Dunkerque
+Scharnhorst
+Littorio
+Richelieu
+Bismarck
+King George V
+North Carolina
+Yamato
+South Dakota
+Iowa

@@ -1,0 +1,195 @@
+; Source: http://en.wikipedia.org/wiki/Member_states_of_the_United_Nations
+
+Argentina
+Belarus
+Brazil
+Chile
+China
+Cuba
+Denmark
+Dominican Republic
+Egypt
+El Salvador
+France
+Haiti
+Iran (Islamic Republic of)
+Lebanon
+Luxembourg
+New Zealand
+Nicaragua
+Paraguay
+Philippines
+Poland
+Russian Federation
+Saudi Arabia
+Syrian Arab Republic
+Turkey
+Ukraine
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Greece
+India
+Peru
+Australia
+Costa Rica
+Liberia
+Colombia
+Mexico
+South Africa
+Canada
+Ethiopia
+Panama
+Bolivia (Plurinational State of)
+Venezuela (Bolivarian Republic of)
+Guatemala
+Norway
+Netherlands
+Honduras
+Uruguay
+Ecuador
+Iraq
+Belgium
+Afghanistan
+Iceland
+Sweden
+Thailand
+Pakistan
+Yemen
+Myanmar
+Israel
+Indonesia
+Albania
+Austria
+Bulgaria
+Cambodia
+Finland
+Hungary
+Ireland
+Italy
+Jordan
+Lao People's Democratic Republic
+Libya[13][note 14]
+Nepal
+Portugal
+Romania
+Spain
+Sri Lanka
+Morocco
+Sudan
+Tunisia
+Japan
+Ghana
+Malaysia
+Guinea
+Benin
+Burkina Faso
+Cameroon
+Central African Republic
+Chad
+Congo
+Democratic Republic of the Congo
+Côte d'Ivoire
+Cyprus
+Gabon
+Madagascar
+Niger
+Somalia
+Togo
+Mali
+Senegal
+Nigeria
+Sierra Leone
+Mauritania
+Mongolia
+United Republic of Tanzania
+Burundi
+Jamaica
+Rwanda
+Trinidad and Tobago
+Algeria
+Uganda
+Kuwait
+Kenya
+Malawi
+Malta
+Zambia
+Gambia
+Maldives
+Singapore
+Guyana
+Botswana
+Lesotho
+Barbados
+Mauritius
+Swaziland
+Equatorial Guinea
+Fiji
+Bahrain
+Bhutan
+Qatar
+Oman
+United Arab Emirates
+Bahamas
+Germany
+Bangladesh
+Grenada
+Guinea-Bissau
+Cape Verde
+Mozambique
+Sao Tome and Principe
+Papua New Guinea
+Comoros
+Suriname
+Seychelles
+Angola
+Samoa
+Djibouti
+Viet Nam
+Solomon Islands
+Dominica
+Saint Lucia
+Zimbabwe
+Saint Vincent and the Grenadines
+Vanuatu
+Belize
+Antigua and Barbuda
+Saint Kitts and Nevis
+Brunei Darussalam
+Namibia
+Liechtenstein
+Estonia
+Democratic People's Republic of Korea
+Republic of Korea
+Latvia
+Lithuania
+Marshall Islands
+Micronesia (Federated States of)
+Armenia
+Azerbaijan
+Kazakhstan
+Kyrgyzstan
+Republic of Moldova
+San Marino
+Tajikistan
+Turkmenistan
+Uzbekistan
+Bosnia and Herzegovina
+Croatia
+Slovenia
+Georgia
+Czech Republic
+Slovakia
+Macedonia
+Eritrea
+Monaco
+Andorra
+Palau
+Kiribati
+Nauru
+Tonga
+Tuvalu
+Serbia
+Switzerland
+Timor-Leste
+Montenegro
+South Sudan
