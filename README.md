@@ -15,9 +15,11 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Hive|Codes A0-Z9 (260)|Numerals 00-99 (100)|
 |Morgan|Forbes Global 2000 companies (200)|Currencies (77)|
 |Peacekeepers|UN countries (193)|UN organs and organisations (23)|
-|Spartans|Guns (169)|Navy vessels (129)|
+|Spartans|Guns (169)|Battleships (129)|
 |University|Elements (112)|Heavenly bodies (55)|
 | | | |
 |General|Star Trek characters (204)||
 
-Most of these lists contain diacritics. The encoding seems to be Unicode; they were created on Windows XP and uploaded from Windows 7. See the comments in the thematic lists for more information about selection criteria.
+Most of these lists contain some diacritics. The encoding seems to be Unicode; they were created on Windows XP and uploaded from Windows 7. See the comments in the thematic lists for more information about selection criteria.
+
+The prophets are Islamic prophets, because there's a canonical list of prophets in Islam. The lists of prophets, codes, numerals, companies, guns, battleships and Star Trek characters could also be used in English, and an English version of the UN country list is included.
