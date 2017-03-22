@@ -13,9 +13,9 @@ The **themes** folder contains the thematic lists in plain text, while the **bas
 |Believers|Gods (261)|Prophets (25)|
 |Gaians|Land mammals (347)|Fishes (265)|
 |Hive|Codes A0-Z9 (260)|Numerals 00-99 (100)|
-|Morgan|Forbes Global 2000 (200)|Currencies (77)|
+|Morgan|Forbes Global 2000 companies (200)|Currencies (77)|
 |Peacekeepers|UN countries (193)|UN organs and organisations (23)|
 |Spartans|Guns (169)|Navy vessels (129)|
 |University|Elements (112)|Heavenly bodies (55)|
 | | | |
-|General|Star Trek characters (204) in order of appearance||
+|General|Star Trek characters (204)||
