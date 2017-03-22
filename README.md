@@ -4,7 +4,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 
 Anyway, this collection didn't start in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
-The **themes** folder contains the thematic lists in plain text, while the **basenames** folder contains the faction files that you'd put in the Alpha Centauri folder. SMAC used seperate lists for water bases; if they ran out, names of land bases could be used. If a faction ran out of names, the general list could be used. After that, the faction name followed by a number was used.
+The **themes** folder contains the thematic lists in plain text, plus some comments, while the **basenames** folder contains the faction files that you'd put in the Alpha Centauri folder. SMAC used seperate lists for water bases; if they ran out, names of land bases could be used. If a faction ran out of names, the general list could be used. After that, the faction name followed by a number was used.
 
 # Themes
 
@@ -19,3 +19,5 @@ The **themes** folder contains the thematic lists in plain text, while the **bas
 |University|Elements (112)|Heavenly bodies (55)|
 | | | |
 |General|Star Trek characters (204)||
+
+Most of these lists contain diacritics. The encoding seems to be Unicode; they were created on Windows XP and uploaded from Windows 7. See the comments in the thematic lists for more information about selection criteria.
