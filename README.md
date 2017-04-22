@@ -23,3 +23,5 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 Most of these lists contain some diacritics. The encoding seems to be Unicode; they were created on Windows XP and uploaded from Windows 7. See the comments in the thematic lists for more information about selection criteria.
 
 The prophets are Islamic prophets, because there's a canonical list of prophets in Islam. The lists of prophets, codes, numerals, companies, guns, battleships and Star Trek characters could also be used in English, and an English version of the UN country list is included.
+
+See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanation).
