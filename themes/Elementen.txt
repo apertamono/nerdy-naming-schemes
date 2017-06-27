@@ -1,4 +1,4 @@
-; 112 elementen op volgorde van atoomnummer
+// 112 elementen op volgorde van atoomnummer
 
 Waterstof
 Helium
