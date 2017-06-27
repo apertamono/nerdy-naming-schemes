@@ -1,8 +1,8 @@
-; Omgekeerde alfabetische volgorde, want er zijn erg veel A's
-; en Zeus hoort op de eerste plaats
+// Omgekeerde alfabetische volgorde, want er zijn erg veel A's
+// en Zeus hoort op de eerste plaats
 
 Zeus
-Yemay·
+Yemay√°
 Yaw
 Yamm
 Xochiquetzal
@@ -25,13 +25,13 @@ Typhon
 Triton
 Trimurti
 Tonatiuh
-ToÎris
+To√´ris
 Tlaloc
 Tislit
 Thoth
 Themis
 Tezcatlipoca
-TeutatËs
+Teutat√®s
 Tethys
 Teshub
 Tefnut
@@ -84,7 +84,7 @@ Nyai Loro Kidul
 Noet
 Njord
 Nintu
-NikË
+Nik√®
 Nezha
 Neptunus
 Nephthys
@@ -107,19 +107,19 @@ Meskhenet
 Mercurius
 Mars 
 Marduk
-Man·nnan Mac Lir
+Man√°nnan Mac Lir
 Maitreya
-Ma‰t
+Ma√§t
 Luna
 Lugh
 Loki
 Liber
-LÌ Ban
+L√≠ Ban
 Lakshmi
 Krishna
 Kratos
 Khnum
-K·lii
+K√°lii
 Jupiter
 Juno 
 JHWH
@@ -167,7 +167,7 @@ Faunus
 Fand
 Esus
 Eros
-…riu
+√âriu
 Eris
 Epona
 Eos
@@ -184,7 +184,7 @@ Domnu
 Doeamoetef
 Dionysus
 Diana 
-Dian CÈcht
+Dian C√©cht
 Dhatarattha
 Dharmapala
 Demeter
@@ -209,7 +209,7 @@ Bres
 Brahma
 Bragi
 Boann
-BilÈ
+Bil√©
 Bhaisajyaguru
 Bes
 Belenos
@@ -219,7 +219,7 @@ Banba
 Baka Brahma
 Badb
 Bacchus
-Ba‰l
+Ba√§l
 Aurora
 Atropos
 Aton
