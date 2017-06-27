@@ -1,5 +1,5 @@
-; Eerste 200 bedrijven op de Forbes Global 2000
-; Berekend in april 2012, op basis van omzet, winst, activa en marktwaarde
+// Eerste 200 bedrijven op de Forbes Global 2000
+// Berekend in april 2012, op basis van omzet, winst, activa en marktwaarde
 
 Exxon Mobil
 JPMorgan Chase
@@ -10,7 +10,7 @@ HSBC Holdings
 PetroChina
 Berkshire Hathaway
 Wells Fargo
-Petrobras-Petróleo Brasil
+Petrobras-PetrÃ³leo Brasil
 BP
 Chevron
 China Construction Bank
@@ -30,7 +30,7 @@ Samsung Electronics
 ConocoPhillips
 Vodafone
 ENI
-Itaú Unibanco Holding
+ItaÃº Unibanco Holding
 China Mobile
 IBM
 AT&T
@@ -40,7 +40,7 @@ Mitsubishi UFJ Financial
 Daimler
 American Intl Group
 ING Group
-Nestlé
+NestlÃ©
 Statoil
 Microsoft
 Banco Bradesco
@@ -57,7 +57,7 @@ Barclays
 Banco do Brasil
 MetLife
 Vale
-Telefónica
+TelefÃ³nica
 Johnson & Johnson
 Westpac Banking Group
 Honda Motor
@@ -94,7 +94,7 @@ Sberbank
 Cisco Systems
 Bank of Nova Scotia
 Anheuser-Busch InBev
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 Mitsubishi Corp
 Hyundai Motor
 Zurich Financial Services
@@ -112,7 +112,7 @@ Bank of Communications
 Oracle
 France Telecom
 Standard Chartered
-América Móvil
+AmÃ©rica MÃ³vil
 Prudential Financial
 Boeing
 American Express
@@ -152,9 +152,9 @@ State Bank of India
 Canon
 TNK-BP Holding
 Posco
-Møller-Maersk
+MÃ¸ller-Maersk
 Shanghai Pudong Dev Bk
-Itaúsa
+ItaÃºsa
 China Telecom
 Hon Hai Precision
 Generali Group
