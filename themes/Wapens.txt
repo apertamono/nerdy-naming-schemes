@@ -1,5 +1,5 @@
-; Antieke vuurwapens: fabrikanten/ontwerpers/merknamen
-; Bron: A.E. Hartink, Geïllustreerde antieke wapens encyclopedie. Lisse: Rebo, 2001.
+// Antieke vuurwapens: fabrikanten/ontwerpers/merknamen
+// Bron: A.E. Hartink, GeÃ¯llustreerde antieke wapens encyclopedie. Lisse: Rebo, 2001.
 
 Colt
 Brown Bess
@@ -18,12 +18,12 @@ Lefaucheux
 Ahrendt
 Montigny
 Albini
-Brändlin
+BrÃ¤ndlin
 MLAF
 Comblain
 Warnant
 Flobert
-Vélo-Dog
+VÃ©lo-Dog
 Martini
 LAM
 Francotte
@@ -41,8 +41,8 @@ Mauser
 Hellmann
 Dreyse
 Zig-Zag
-Cöster
-Förster
+CÃ¶ster
+FÃ¶rster
 Bartl
 Remington
 Springfield
@@ -112,7 +112,7 @@ Carcano
 RFA
 Stevens
 Beaumont
-Bär
+BÃ¤r
 Harsveldt
 Nagant
 Soleil

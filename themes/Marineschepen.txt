@@ -1,6 +1,6 @@
-; Classes of ironclad battleships from the 19th and 20th centuries
-; Source: http://en.wikipedia.org/wiki/List_of_battleship_classes
-; Excluding classes that were never launched or commissioned
+// Classes of ironclad battleships from the 19th and 20th centuries
+// Source: http://en.wikipedia.org/wiki/List_of_battleship_classes
+// Excluding classes that were never launched or commissioned
 
 Gloire
 Warrior
@@ -14,7 +14,7 @@ Pervenets
 Numancia
 Vitoria
 Roma
-Océan
+OcÃ©an
 Cerberus
 Audacious
 Swiftsure
@@ -25,7 +25,7 @@ Colbert
 Duilio
 Belleisle
 Ajax
-Dévastation
+DÃ©vastation
 Italia
 Conqueror
 Terrible
@@ -65,12 +65,12 @@ Virginia
 Formidable
 Maine
 Wittelsbach
-République
+RÃ©publique
 King Edward VII
 Duncan
 Swiftsure
 Erzherzog Karl
-Liberté
+LibertÃ©
 Braunschweig
 Regina Elena
 Katori
@@ -103,7 +103,7 @@ Wyoming
 King George V
 Tegetthoff
 Andrea Doria
-König
+KÃ¶nig
 Iron Duke
 New York
 Rivadavia

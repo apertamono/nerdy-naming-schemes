@@ -1,11 +1,11 @@
-; Chronologische volgorde met huidige namen, incl. verdwenen landen
-; Bron: http://www.unric.org/html/nederlands/un/abcbijlagen.htm
+// Chronologische volgorde met huidige namen, incl. verdwenen landen
+// Bron: http://www.unric.org/html/nederlands/un/abcbijlagen.htm
 
-Argentinië
-Australië
-België
+ArgentiniÃ«
+AustraliÃ«
+BelgiÃ«
 Bolivia
-Brazilië
+BraziliÃ«
 Canada
 Chili
 China
@@ -17,17 +17,17 @@ Dominicaanse Republiek
 Ecuador
 Egypte
 El Salvador
-Ethiopië
+EthiopiÃ«
 Filipijnen
 Frankrijk
 Griekenland
 Guatemala
-Haïti
+HaÃ¯ti
 Honduras
 India
 Irak
 Iran
-Joegoslavië
+JoegoslaviÃ«
 Libanon
 Liberia
 Luxemburg
@@ -36,12 +36,12 @@ Nederland
 Nicaragua
 Nieuw-Zeeland
 Noorwegen
-Oekraïne
+OekraÃ¯ne
 Panama
 Paraguay
 Peru
 Polen
-Saoedi-Arabië
+Saoedi-ArabiÃ«
 Syrische Arabische Republiek
 Tsjechoslowakije
 Turkije
@@ -49,7 +49,7 @@ Unie van Socialistische Sovjetrepublieken
 Uruguay
 Venezuela
 Verenigde Staten van Amerika
-Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+Verenigd Koninkrijk van Groot-BrittanniÃ« en Noord-Ierland
 Wit-Rusland
 Zuid-Afrika
 Afghanistan
@@ -59,30 +59,30 @@ Zweden
 Jemen
 Pakistan
 Myanmar
-Israël
-Indonesië
-Albanië
+IsraÃ«l
+IndonesiÃ«
+AlbaniÃ«
 Bulgarije
 Cambodja
 Democratische Volksrepubliek Laos
 Finland
 Hongarije
 Ierland
-Italië
-Jordanië
-Libië
+ItaliÃ«
+JordaniÃ«
+LibiÃ«
 Nepal
 Oostenrijk
 Portugal
-Roemenië
+RoemeniÃ«
 Spanje
 Sri Lanka
 Japan
 Marokko
 Soedan
-Tunesië
+TunesiÃ«
 Ghana
-Maleisië
+MaleisiÃ«
 Guinea
 Benin
 Burkina Faso
@@ -98,11 +98,11 @@ Mali
 Niger
 Nigeria
 Senegal
-Somalië
+SomaliÃ«
 Togo
 Tsjaad
-Mauritanië
-Mongolië
+MauritaniÃ«
+MongoliÃ«
 Sierra Leone
 Verenigde Republiek Tanzania
 Algerije
@@ -140,10 +140,10 @@ Bangladesh
 Grenada
 Guinee-Bissau
 Comoren
-Kaapverdië
+KaapverdiÃ«
 Mozambique
 Papoea-Nieuw-Guinea
-Sao Tomé en Principe
+Sao TomÃ© en Principe
 Suriname
 Angola
 Samoa
@@ -161,41 +161,41 @@ Vanuatu
 Saint Kitts en Nevis
 Brunei Darussalam
 Liechtenstein
-Namibië
+NamibiÃ«
 Democratische Volksrepubliek Korea
 Estland
 Letland
 Litouwen
 Marshalleilanden
-Micronesië
+MicronesiÃ«
 Republiek Korea
-Armenië
+ArmeniÃ«
 Azerbeidzjan
-Bosnië-Herzegovina
-Georgië
+BosniÃ«-Herzegovina
+GeorgiÃ«
 Kazachstan
-Kirgizië
-Kroatië
-Moldavië
+KirgiziÃ«
+KroatiÃ«
+MoldaviÃ«
 Oezbekistan
 San Marino
-Slovenië
+SloveniÃ«
 Tadzjikistan
 Turkmenistan
 Andorra
 Eritrea
 Monaco
-Tsjechië
+TsjechiÃ«
 Slowakije
-Macedonië
+MacedoniÃ«
 Palau
 Kiribati
 Nauru
 Tonga
 Tuvalu
-Servië en Montenegro
+ServiÃ« en Montenegro
 Zwitserland
 Timor-Leste
-Servië
+ServiÃ«
 Montenegro
 Zuid-Soedan

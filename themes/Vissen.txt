@@ -1,9 +1,9 @@
-; Namen van ordes, families en soorten
-; Zo veel mogelijk beperkt tot namen van één woord
-; Als het in het Nederlands maar als een diersoort klinkt
-; Bron: http://nl.wikipedia.org/wiki/Lijst_van_vissen_(Nederlandstalig)
-; Die lijst bevat ook niet-vissen (Tuimelaar, Zeepaardje)
-; Kan niet garanderen dat die er allemaal uit gefilterd zijn
+// Namen van ordes, families en soorten
+// Zo veel mogelijk beperkt tot namen van Ã©Ã©n woord
+// Als het in het Nederlands maar als een diersoort klinkt
+// Bron: http://nl.wikipedia.org/wiki/Lijst_van_vissen_(Nederlandstalig)
+// Die lijst bevat ook niet-vissen (Tuimelaar, Zeepaardje)
+// Kan niet garanderen dat die er allemaal uit gefilterd zijn
 
 Aal
 Alver

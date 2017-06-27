@@ -1,4 +1,4 @@
-; Niet meer dan 10 per letter, om selecteren in dialoogvensters overzichtelijk te houden
+// Niet meer dan 10 per letter, om selecteren in dialoogvensters overzichtelijk te houden
 
 A0 HIVE BASE
 A1 HIVE BASE
