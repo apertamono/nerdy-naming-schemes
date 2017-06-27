@@ -1,4 +1,4 @@
-# Thematic lists of random names in Dutch
+# Thematic lists of names in Dutch
 
 This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or variables if it doesn't matter what they're called. I read somewhere that you're a bad programmer if you give variables random names, but since I'm a bad programmer who didn't do Computer Science, I don't really know which legit use cases there are. And I don't have to know - that's the beauty of open source.
 
