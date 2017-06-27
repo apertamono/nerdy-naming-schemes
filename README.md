@@ -1,6 +1,6 @@
 # Thematic lists of names in Dutch
 
-This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or variables if it doesn't matter what they're called. I read somewhere that you're a bad programmer if you give variables random names, but since I'm a bad programmer who didn't do Computer Science, I don't really know which legit use cases there are. And I don't have to know - that's the beauty of open source.
+This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or variables if it doesn't matter what they're called. I read somewhere that you're a bad programmer if you give variables random names, but I don't really know which legit use cases there are. And I don't have to know - that's the beauty of open source.
 
 Anyway, this collection didn't start in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. And I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
@@ -20,8 +20,8 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 | | | |
 |General|Star Trek characters (204)||
 
-Most of these lists contain some diacritics. The encoding seems to be Unicode; they were created on Windows XP and uploaded from Windows 7. See the comments in the thematic lists for more information about selection criteria.
+Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once.
 
 The prophets are Islamic prophets, because there's a canonical list of prophets in Islam. The lists of prophets, codes, numerals, companies, guns, battleships and Star Trek characters could also be used in English, and an English version of the UN country list is included.
 
-See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanation).
+See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanations). And there's a useful collection of naming schemes at https://namingschemes.com/. I didn't know they were called naming schemes until Taylor Swift retweeted a tweet by Mark Burnett.
