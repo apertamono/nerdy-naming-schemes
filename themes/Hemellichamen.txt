@@ -1,4 +1,4 @@
-; Helderste hemellichamen, gezien vanaf de aarde (naar maximale magnitude)
+// Helderste hemellichamen, gezien vanaf de aarde (naar maximale magnitude)
 
 Zon
 Maan
