@@ -1,11 +1,11 @@
-; 1. Munteenheden die in meerdere landen worden gebruikt
-; 2. Overige bestaande munteenheden. Volgorde: landnaam alfabetisch
-; Varianten zoals rial/riyal voor real en denar voor dinar niet opgenomen
-; Maar wel yen/yuan/won, lev/leu, dram/dirham
-; Twee vermeldingen voor pond sterling (+Turkse Lira) en yuan renminbi
-; Bron: http://nl.wikipedia.org/wiki/Lijst_van_munteenheden
+// 1. Munteenheden die in meerdere landen worden gebruikt
+// 2. Overige bestaande munteenheden. Volgorde: landnaam alfabetisch
+// Varianten zoals rial/riyal voor real en denar voor dinar niet opgenomen
+// Maar wel yen/yuan/won, lev/leu, dram/dirham
+// Twee vermeldingen voor pond sterling (+Turkse Lira) en yuan renminbi
+// Bron: http://nl.wikipedia.org/wiki/Lijst_van_munteenheden
  
-Colón
+ColÃ³n
 Dinar
 Dirham
 Dollar
@@ -62,7 +62,7 @@ Metical
 Dirham
 Tugrik
 Kyat
-Córdoba
+CÃ³rdoba
 Naira
 Sum
 Grivna
@@ -70,7 +70,7 @@ Kina
 Sol
 Zloty
 Balboa
-Guaraní
+GuaranÃ­
 Dobra
 Lilangeni
 Tala
