@@ -1,8 +1,8 @@
-; Namen van ordes, families en soorten
-; Zo veel mogelijk beperkt tot namen van één woord
-; Als het in het Nederlands maar als een diersoort klinkt
-; Geen geografische aanduidingen of persoonsnamen
-; Bron: http://nl.wikipedia.org/wiki/Lijst_van_zoogdieren_naar_familie
+// Namen van ordes, families en soorten
+// Zo veel mogelijk beperkt tot namen van Ã©Ã©n woord
+// Als het in het Nederlands maar als een diersoort klinkt
+// Geen geografische aanduidingen of persoonsnamen
+// Bron: http://nl.wikipedia.org/wiki/Lijst_van_zoogdieren_naar_familie
 
 Vogelbekdier
 Mierenegel
@@ -104,7 +104,7 @@ Palmroller
 Loewak
 Genet
 Linsang
-Rassé
+RassÃ©
 Fretkat
 Fanaloka
 Mangoest
@@ -165,7 +165,7 @@ Pekari
 Kameel
 Dromedaris
 Guanaco
-Vicuña
+VicuÃ±a
 Dwerghert
 Kantjil
 Impala
