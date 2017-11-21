@@ -13,6 +13,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Battleships.txt|Battleships|129|
 |Codes.txt|Codes A0-Z9|260|
 |Countries.txt|UN member states|193|
+|Coins.txt|Cryptocurrencies|701|
 ||Currencies|77 - to be translated|
 |Elements.txt|Named chemical elements|118|
 |Em.txt|Symbols for named chemical elements|118|
