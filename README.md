@@ -13,7 +13,8 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 ||Battleships|129|
 |Codes.txt|Codes A0-Z9|260|
 ||Currencies|77 - to be translated|
-||Elements|112 - to be translated|
+|Elements.txt|Named chemical elements|118|
+|Em.txt|Symbols for named chemical elements|118|
 |Forbes200.txt|Forbes Global 2000 companies|200|
 |Gods.txt|Gods|261 - to be translated?|
 ||Guns - firearm brands|169|
