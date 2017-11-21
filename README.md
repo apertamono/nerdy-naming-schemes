@@ -19,7 +19,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Em.txt|Symbols for named chemical elements|118|
 |Forbes200.txt|Forbes Global 2000 companies (2012)|200|
 |Gods.txt|Gods|261 - to be translated?|
-||Guns - firearm brands|169|
+|Guns.txt|Historical firearms|169|
 |Numbers.txt|Numerals 00-99|100|
 |Prophets.txt|Prophets according to Islam|25|
 |Star Trek.txt|Star Trek characters|204|
