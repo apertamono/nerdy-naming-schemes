@@ -6,7 +6,7 @@ This collection wasn't started in an office. Do you remember playing **Sid Meier
 
 The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is going to be a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
 
-# Themes
+# Overview of themes
 
 |Filename|Theme|# of names|
 |-|-|-|
