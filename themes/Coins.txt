@@ -1,0 +1,704 @@
+// 701 cryptocurrencies listed on CoinMarketCap on 2017-11-21
+// not including tokens or coins with an unknown market cap
+
+Bitcoin
+Ethereum
+Bitcoin Cash
+Ripple
+Dash
+Litecoin
+IOTA
+NEO
+Monero
+NEM
+Ethereum Classic
+Lisk
+Qtum
+Zcash
+Cardano
+Hshare
+Stellar Lumens
+BitConnect
+Waves
+BitShares
+Stratis
+Ark
+Komodo
+Bytecoin
+Steem
+Decred
+Factom
+PIVX
+Vertcoin
+MonaCoin
+Dogecoin
+Byteball Bytes
+BitcoinDark
+Siacoin
+Metaverse ETP
+Nxt
+GameCredits
+Pura
+ZCoin
+Syscoin
+Blocknet
+GXShares
+Lykke
+Verge
+DigiByte
+B3Coin
+VeChain
+Particl
+Cryptonex
+IO Coin
+KuCoin Shares
+Nexus
+Asch
+NAV Coin
+ZenCash
+Ubiq
+FairCoin
+Feathercoin
+BitBay
+Achain
+Groestlcoin
+Peercoin
+Neblio
+Counterparty
+Aeon
+NoLimitCoin
+Bitdeal
+CloakCoin
+Viacoin
+PotCoin
+DECENT
+MinexCoin
+Gulden
+Bitcore
+OKCash
+Emercoin
+Einsteinium
+LEOcoin
+Rise
+ATBCoin
+ReddCoin
+Skycoin
+BlackCoin
+Diamond
+FedoraCoin
+ION
+Elastic
+Namecoin
+LBRY Credits
+Crown
+SIBCoin
+Rubycoin
+RaiBlocks
+SmartCash
+SolarCoin
+BitSend
+ToaCoin
+Peerplays
+Shift
+Clams
+GridCoin
+The ChampCoin
+VeriCoin
+DubaiCoin
+DigitalNote
+MonetaryUnit
+WhiteCoin
+Credence Coin
+Expanse
+Golos
+SaluS
+Omni
+Bitcloud
+Radium
+Unobtanium
+TransferCoin
+Energycoin
+Vcash
+Burst
+NeosCoin
+Karbowanec
+LoMoCoin
+Mooncoin
+FlorinCoin
+HTMLCOIN
+Sphere
+PRIZM
+Pascal Coin
+Compcoin
+Centurion
+Abjcoin
+Gambit
+Onix
+Bitcoin Plus
+Spectrecoin
+Novacoin
+Voxels
+BitBean
+CasinoCoin
+PinkCoin
+HEAT
+SuperCoin
+XTRABYTES
+Stealthcoin
+Dimecoin
+Masternodecoin
+Curecoin
+Kore
+Obsidian
+E-Dinar Coin
+Sequence
+Dynamic
+Auroracoin
+GoldCoin
+Musicoin
+NewYorkCoin
+ChainCoin
+BridgeCoin
+Global Currency Reserve
+EuropeCoin
+TheGCCcoin
+Myriad
+Synergy
+EarthCoin
+PoSW Coin
+ArtByte
+Pesetacoin
+Internet of People
+Rupee
+HempCoin
+ExclusiveCoin
+Tao
+ECC
+Bitswift
+Syndicate
+Neutron
+Blitzcash
+Sexcoin
+ProCurrency
+Memetic
+Bela
+Breakout Stake
+EquiTrader
+DeepOnion
+Terracoin
+Yocoin
+PutinCoin
+Primecoin
+Hush
+Steem Dollars
+XP
+VeriumReserve
+2GIVE
+Breakout
+GeoCoin
+ZClassic
+EverGreenCoin
+Atmos
+Bitmark
+TrustPlus
+XGOX
+AudioCoin
+BlueCoin
+Quark
+Bismuth
+ParkByte
+VIVO
+Zephyr
+Riecoin
+DopeCoin
+Creativecoin
+Innova
+CHIPS
+CannabisCoin
+Visio
+Crypto Bullion
+Condensate
+SpreadCoin
+DNotes
+e-Gulden
+HunterCoin
+Crave
+vTorrent
+Startcoin
+Mintcoin
+LuckChain
+Megacoin
+MarteXcoin
+Dotcoin
+Magi
+Zeitcoin
+Cryptonite
+DraftCoin
+Signatum
+Zoin
+Espers
+Zennies
+BitcoinZ
+Pirl
+WorldCoin
+RussiaCoin
+Greencoin
+ArcticCoin
+Unitus
+HyperStake
+TrezarCoin
+Growers International
+eBoost
+Adzcoin
+SHIELD
+Universal Currency
+Influxcoin
+Pure
+1337
+Bytecent
+Bitzeny
+Orbitcoin
+Sumokoin
+Fantomcoin
+KekCoin
+Elementrem
+Fastcoin
+Renos
+NuBits
+FIMKrypto
+Moin
+HiCoin
+Bitradio
+CryptoCarbon
+GoldReserve
+Dinastycoin
+Linx
+Machinecoin
+Zetacoin
+MonacoCoin
+Netko
+Helleniccoin
+Unify
+BitBar
+TagCoin
+InsaneCoin
+GCoin
+UnbreakableCoin
+iTicoin
+Bata
+Bitgem
+Veltor
+Happycoin
+ALQO
+Capricoin
+BriaCoin
+Zero
+TeslaCoin
+Canada eCoin
+MaxCoin
+ColossusCoinXT
+Mao Zedong
+Denarius
+NobleCoin
+FujiCoin
+42-coin
+Ellaism
+WhaleCoin
+Bitcoin Fast
+Linda
+Solaris
+SmileyCoin
+Pakcoin
+Trollcoin
+Dashcoin
+DigitalPrice
+LUXCoin
+Tychocoin
+Piggycoin
+GoByte
+Vsync
+Deutsche eMark
+Xios
+Ethereum Dark
+AltCommunity Coin
+Cream
+PostCoin
+VirtualCoin
+TrumpCoin
+KiloCoin
+Bitcurrency
+Scorecoin
+Bitcoin Scrypt
+ChanCoin
+BlakeStar
+EcoCoin
+Sprouts
+OctoCoin
+HOdlcoin
+BitTokens
+Guncoin
+Rubies
+Digitalcoin
+Mincoin
+Atomic Coin
+LottoCoin
+CorgiCoin
+BiblePay
+GoldBlocks
+Ratecoin
+USDe
+Crypto
+Bolivarcoin
+Honey
+Elcoin
+LeaCoin
+GlobalBoost-Y
+808Coin
+EmberCoin
+Electra
+Wyvern
+PRCoin
+WomenCoin
+Rupaya
+Cryptojacks
+Theresa May Coin
+Philosopher Stones
+BumbaCoin
+HempCoin
+RedCoin
+CoinonatX
+ReeCoin
+AquariusCoin
+DROXNE
+Eurocoin
+Virta Unique Coin
+Blakecoin
+CampusCoin
+Virtacoinplus
+NevaCoin
+Litecoin Plus
+Roofs
+TajCoin
+Marijuanacoin
+PonziCoin
+Tristar Coin
+JobsCoin
+Blackstar
+CybCSec
+Interzone
+Master Swiscoin
+Torcoin
+VectorAI
+Money
+GlobalToken
+Coimatic
+CrevaCoin
+PlayerCoin
+Slevin
+MiloCoin
+Kronecoin
+Vault Coin
+Xonecoin
+Rawcoin
+LevoPlus
+Bitvolt
+LiteBitcoin
+LiteCoin Ultra
+HarmonyCoin
+Enigma
+GeyserCoin
+Ulatech
+Falcoin
+E-coin
+CageCoin
+XCurrency
+Stakecoin
+YashCoin
+Ixcoin
+Woodcoin
+ATC Coin
+AsiaCoin
+Colossuscoin V2
+Carboncoin
+InflationCoin
+Coin(O)
+Infinitecoin
+CryptCoin
+UltraCoin
+Shorty
+HitCoin
+Anoncoin
+IncaKoin
+LiteDoge
+Pandacoin
+MetalCoin
+Footy Cash
+SmartCoin
+NetCoin
+Kobocoin
+HoboNickels
+UFO Coin
+ShadowCash
+Ultimate Secure Cash
+SACoin
+BTCtalkcoin
+Bitstar
+AmberCoin
+FinCoin
+BritCoin
+Eternity
+Valorbit
+DaxxCoin
+SwagBucks
+iCoin
+MazaCoin
+FuelCoin
+Universe
+Sterlingcoin
+OHM
+WayGuide
+Triangles
+AurumCoin
+Phoenixcoin
+Version
+FlutterCoin
+Stress
+Opal
+Joulecoin
+QubitCoin
+Titcoin
+The Cypherfunks
+Flycoin
+SproutsExtreme
+GAIA
+Nyancoin
+Joincoin
+I0Coin
+PlatinumBAR
+PayCoin
+8Bit
+TittieCoin
+Kayicoin
+PureVidz
+Devcoin
+LanaCoin
+Tigercoin
+ChessCoin
+DigiCube
+Darsek
+Truckcoin
+BigUp
+BunnyCoin
+GlobalCoin
+UniCoin
+KushCoin
+Prototanium
+LiteBar
+Cannacoin
+BERNcash
+SatoshiMadness
+Freicoin
+Acoin
+Evotion
+WMCoin
+Shilling
+Emerald Crypto
+Unrealcoin
+Grantcoin
+SpaceCoin
+Swing
+Cannation
+RevolverCoin
+Pascal Lite
+AntiBitcoin
+PetroDollar
+Mineum
+Gapcoin
+Zurcoin
+Sativacoin
+Sling
+TEKcoin
+MojoCoin
+Evil Coin
+Francs
+020LondonCoin
+Yacoin
+Bottlecaps
+Firecoin
+CacheCoin
+PIECoin
+Cypher
+QuazarCoin
+Allion
+Global Tour Coin
+LeviarCoin
+IslaCoin
+GanjaCoin
+Franko
+Ammo Rewards
+C-Bit
+Quatloo
+Aricoin
+ParallelCoin
+Dollarcoin
+Catcoin
+EMoneyPower
+GoldPieces
+BitQuark
+GameUnits
+Halcyon
+Coin2
+X-Coin
+Jin Coin
+MACRON
+Flaxscript
+PayCon
+Argentum
+Slimcoin
+Prime-XI
+RonPaulCoin
+BeaverCoin
+Bitcoin 21
+CompuCoin
+Beatcoin
+SecureCoin
+SoonCoin
+Marscoin
+BoostCoin
+Kittehcoin
+GPU Coin
+Spots
+MustangCoin
+SixEleven
+Californium
+Chronos
+Jewels
+Bitcoin Planet
+Kurrent
+Tattoocoin Standard Edition
+KibiCoin
+Dreamcoin
+SecretCoin
+BillaryCoin
+Artex Coin
+Asiadigicoin
+Creatio
+HealthyWormCoin
+Hexx
+Independent Money System
+Solarflarecoin
+Metal Music Coin
+Bitz
+AllSafe
+Gold Pressed Latinum
+Uro
+PopularCoin
+ZetaMicron
+CryptoWorldX Token
+VapersCoin
+GuccioneCoin
+Zayedcoin
+Debitcoin
+WARP
+ARbit
+Braincoin
+ICOBID
+BipCoin
+FlavorCoin
+Neuro
+Photon
+Digital Rupees
+Cashcoin
+DAPPSTER
+BowsCoin
+Cthulhu Offerings
+MindCoin
+BitCoal
+Steps
+Comet
+SOILcoin
+Coinonat
+BenjiRolls
+BiosCrypto
+AnarchistsPrime
+Orlycoin
+Pulse
+Cabbage
+ImpulseCoin
+GameBet Coin
+CRTCoin
+Rimbit
+PLNcoin
+EGO
+G3N
+TAGRcoin
+FuzzBalls
+Doubloon
+VIP Tokens
+Pesobit
+DAS
+KingN Coin
+DPAY
+Ride My Car
+Litecred
+Impact
+Iconic
+Eryllium
+OsmiumCoin
+LetItRide
+CryptoEscudo
+BlazeCoin
+GBCGoldCoin
+iBank
+Luna Coin
+PosEx
+BBQCoin
+Zonecoin
+SongCoin
+Destiny
+Dollar Online
+Printerium
+High Voltage
+SocialCoin
+CHNCoin
+Tradecoin
+Wild Beast Block
+BioBar
+RSGPcoin
+Antilitecoin
+SydPak
+BnrtxCoin
+PX
+Speedcash
+P7Coin
+Elysium
+Wexcoin
+AgrolifeCoin
+Virtacoin
+Magnum
+Save and Gain
+Selfiecoin
+MorningStar
+GeertCoin
+Argus
+Concoin
+NodeCoin
+Revenu
+Grimcoin
+Project-X
+WalletBuildersCoin
+Frazcoin
+BigBoobsCoin
+Powercoin
+PizzaCoin
+Digital Credits
+Ebittree Coin
+SwapToken
+MantraCoin
+Sojourn
+Abncoin
+Digital Money Bits
+Environ
+Future Digital Currency
+CaliphCoin
+AppleCoin
