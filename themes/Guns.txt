@@ -1,5 +1,5 @@
-// Antieke vuurwapens: fabrikanten/ontwerpers/merknamen
-// Bron: A.E. Hartink, Geïllustreerde antieke wapens encyclopedie. Lisse: Rebo, 2001.
+// Historical firearms: designers/factories/brands
+// Source: A.E. Hartink, Geïllustreerde antieke wapens encyclopedie. Lisse: Rebo, 2001.
 
 Colt
 Brown Bess
