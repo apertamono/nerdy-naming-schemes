@@ -1,5 +1,6 @@
-// Omgekeerde alfabetische volgorde, want er zijn erg veel A's
-// en Zeus hoort op de eerste plaats
+// In reverse alphabetical order
+// because there are so many A's
+// and Zeus should be number 1
 
 Zeus
 Yemayá
@@ -12,7 +13,7 @@ Wodan
 Wepwawet
 Wadjet
 Vulcanus 
-Vishnoe
+Vishnu
 Virupakkha
 Virulhaka
 Viracocha
@@ -123,7 +124,7 @@ Kálii
 Jupiter
 Juno 
 JHWH
-Jezus
+Jesus
 Jaw
 Janus
 Jam
