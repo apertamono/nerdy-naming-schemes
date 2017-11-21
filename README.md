@@ -1,27 +1,28 @@
-# Thematic lists of names in Dutch
+# Thematic lists of names
 
-This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or variables if it doesn't matter what they're called. I read somewhere that you're a bad programmer if you give variables random names, but I don't really know which legit use cases there are. And I don't have to know - that's the beauty of open source.
+This is a collection of thematic word lists that you could use to name a dozen or a few hundred files or servers if it doesn't matter what they're called. And there may be other use cases I've never heard of.
 
-Anyway, this collection didn't start in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. And I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
+This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
-The **themes** folder contains the thematic lists in plain text, plus some comments, while the **basenames** folder contains the faction files that you'd put in the Alpha Centauri folder. SMAC used seperate lists for water bases; if they ran out, names of land bases could be used. If a faction ran out of names, the general list could be used. After that, the faction name followed by a number was used.
+The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is going to be a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
 
 # Themes
 
-|Faction|Land bases|Water bases|
-|-|-|-| 
-|Believers|Gods (261)|Prophets (25)|
-|Gaians|Land mammals (347)|Fishes (265)|
-|Hive|Codes A0-Z9 (260)|Numerals 00-99 (100)|
-|Morgan|Forbes Global 2000 companies (200)|Currencies (77)|
-|Peacekeepers|UN countries (193)|UN organs and organisations (23)|
-|Spartans|Guns (169)|Battleships (129)|
-|University|Elements (112)|Heavenly bodies (55)|
-| | | |
-|General|Star Trek characters (204)||
+|Filename|Theme|# of names|
+|-|-|-|
+||Islamic prophets|25|
+||Codes A0-Z9|260|
+||Numerals 00-99|100|
+|Forbes200.txt|Forbes Global 2000 companies|200|
+||Currencies|77 - to be translated|
+|UN countries.txt|UN countries|193|
+||UN organs and organisations|23 - to be translated?|
+||Guns - firearm brands|169|
+||Battleships|129|
+||Elements|112 - to be translated|
+||Heavenly bodies|55 - to be translated|
+|Star Trek.txt|Star Trek characters|204|
 
-Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once.
+Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
 
-The prophets are Islamic prophets, because there's a canonical list of prophets in Islam. The lists of prophets, codes, numerals, companies, guns, battleships and Star Trek characters could also be used in English, and an English version of the UN country list is included.
-
-See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanations). And there's a useful collection of naming schemes at https://namingschemes.com/. I didn't know they were called naming schemes until Taylor Swift retweeted a tweet by Mark Burnett.
+See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanations). And there's a useful collection of naming schemes at https://namingschemes.com/.
