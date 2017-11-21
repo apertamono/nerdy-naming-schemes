@@ -12,6 +12,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |-|-|-|
 ||Battleships|129|
 |Codes.txt|Codes A0-Z9|260|
+|Countries.txt|UN member states|193|
 ||Currencies|77 - to be translated|
 |Elements.txt|Named chemical elements|118|
 |Em.txt|Symbols for named chemical elements|118|
@@ -22,7 +23,6 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 ||Islamic prophets|25|
 |Star Trek.txt|Star Trek characters|204|
 ||Heavenly bodies|55 - to be translated|
-|UN countries.txt|UN countries|193|
 ||UN organs and organisations|23 - to be translated?|
 
 Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
