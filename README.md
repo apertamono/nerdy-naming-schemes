@@ -10,7 +10,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 
 |Filename|Theme|# of names|
 |-|-|-|
-||Battleships|129|
+|Battleships.txt|Battleships|129|
 |Codes.txt|Codes A0-Z9|260|
 |Countries.txt|UN member states|193|
 ||Currencies|77 - to be translated|
@@ -20,7 +20,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Gods.txt|Gods|261 - to be translated?|
 ||Guns - firearm brands|169|
 |Numbers.txt|Numerals 00-99|100|
-||Islamic prophets|25|
+|Prophets.txt|Prophets according to Islam|25|
 |Star Trek.txt|Star Trek characters|204|
 ||Heavenly bodies|55 - to be translated|
 ||UN organs and organisations|23 - to be translated?|
