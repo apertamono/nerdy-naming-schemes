@@ -10,18 +10,19 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 
 |Filename|Theme|# of names|
 |-|-|-|
-||Islamic prophets|25|
-||Codes A0-Z9|260|
-||Numerals 00-99|100|
-|Forbes200.txt|Forbes Global 2000 companies|200|
+||Battleships|129|
+|Codes.txt|Codes A0-Z9|260|
 ||Currencies|77 - to be translated|
+||Elements|112 - to be translated|
+|Forbes200.txt|Forbes Global 2000 companies|200|
+|Gods.txt|Gods|261 - to be translated?|
+||Guns - firearm brands|169|
+|Numbers.txt|Numerals 00-99|100|
+||Islamic prophets|25|
+|Star Trek.txt|Star Trek characters|204|
+||Heavenly bodies|55 - to be translated|
 |UN countries.txt|UN countries|193|
 ||UN organs and organisations|23 - to be translated?|
-||Guns - firearm brands|169|
-||Battleships|129|
-||Elements|112 - to be translated|
-||Heavenly bodies|55 - to be translated|
-|Star Trek.txt|Star Trek characters|204|
 
 Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
 
