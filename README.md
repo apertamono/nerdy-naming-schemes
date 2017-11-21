@@ -1,6 +1,6 @@
 # Thematic lists of names
 
-This is a collection of thematic word lists that you could use to name a dozen or a few hundred files or servers if it doesn't matter what they're called. And there may be other use cases I've never heard of.
+This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or children if it doesn't matter what they're called. And there may be other use cases I've never heard of.
 
 This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
