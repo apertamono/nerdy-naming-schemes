@@ -1,5 +1,5 @@
 // 701 cryptocurrencies listed on CoinMarketCap on 2017-11-21
-// Not including tokens or coins with an unknown market cap
+// Excluding tokens or coins with an unknown market cap
 // Sorted by market cap
 // Removed special characters: I/O Coin => IO Coin, Coin(O) => CoinO
 
