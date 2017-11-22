@@ -1,14 +1,16 @@
-// Helderste hemellichamen, gezien vanaf de aarde (naar maximale magnitude)
+// Brightest celestial bodies, as seen from Earth (by maximum magnitude)
+// The brightest stars have many names, and exact rankings are controversial
+// Where possible, I list individual names rather than letter + constellation
 
-Zon
-Maan
+Sun
+Moon
 Venus
 Mars
 Jupiter
 Sirius
 Mercurius
 Canopus
-Saturnus
+Saturn
 Arcturus
 Toliman
 Vega
@@ -16,7 +18,7 @@ Capella
 Rigel
 Procyon
 Achernar
-Betelgeuze
+Betelgeuse
 Agena
 Altair
 Aldebaran
@@ -48,10 +50,10 @@ Sargas
 Menkalinan
 Atria
 Alhena
-Pauw
+Peacock
 Delta Velorum
 Alphard
 Castor
 Murzim
 Hamal
-Poolster
+Polaris
