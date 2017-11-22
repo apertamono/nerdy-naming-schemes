@@ -14,7 +14,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Codes.txt|Codes A0-Z9|260|
 |Coins.txt|Cryptocurrencies|701|
 |Countries.txt|UN member states|193|
-||Currencies|77 - to be translated|
+|Currencies.txt|Currencies|77 - to be translated|
 |Elements.txt|Named chemical elements|118|
 |Em.txt|Symbols for named chemical elements|118|
 |Forbes200.txt|Forbes Global 2000 companies (2012)|200|
@@ -22,9 +22,9 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 |Guns.txt|Historical firearms|169|
 |Numbers.txt|Numerals 00-99|100|
 |Prophets.txt|Prophets according to Islam|25|
-|Star Trek.txt|Star Trek characters|204|
-||Heavenly bodies|55 - to be translated|
-||UN organs and organisations|23 - to be translated?|
+|Stars.txt|Celestial bodies|55|
+|StarTrek.txt|Star Trek characters|204|
+|UN.txt|UN organs and organisations|23 - to be translated?|
 
 Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
 
