@@ -1,4 +1,4 @@
-## Thematic lists of names
+### Thematic lists of names
 
 This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or children if it doesn't matter what they're called. And there may be other use cases I've never heard of.
 
