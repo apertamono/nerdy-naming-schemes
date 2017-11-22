@@ -1,5 +1,5 @@
-// Eerste 200 bedrijven op de Forbes Global 2000
-// Berekend in april 2012, op basis van omzet, winst, activa en marktwaarde
+// First 200 companies on the Forbes Global 2000 list
+// April 2012, based on revenue, profit, assets and market cap
 
 Exxon Mobil
 JPMorgan Chase
