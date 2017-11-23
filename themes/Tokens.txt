@@ -7,7 +7,6 @@
 // This includes temporary tokens for future blockchains, like EOS and Ardor
 // This list does not constitute financial advice 
 // It does not guarantee that any of these tokens have any value at all
-// Don't invest in ICO shit, idiots
 
 EOS
 OmiseGO
