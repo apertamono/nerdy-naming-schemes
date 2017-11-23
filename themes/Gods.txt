@@ -4,15 +4,14 @@
 
 Zeus
 Yemayá
-Yaw
-Yamm
+Yam
 Xochiquetzal
 Xochipilli
 Xipe Totec
 Wodan
 Wepwawet
 Wadjet
-Vulcanus 
+Vulcan 
 Vishnu
 Virupakkha
 Virulhaka
@@ -26,10 +25,10 @@ Typhon
 Triton
 Trimurti
 Tonatiuh
-Toëris
 Tlaloc
 Tislit
 Thoth
+Thor
 Themis
 Tezcatlipoca
 Teutatès
@@ -46,7 +45,7 @@ Sopdet
 Sokaris
 Sobek
 Skadi
-Sjoe
+Shu
 Sita
 Sif
 Shiva
@@ -82,12 +81,12 @@ Ogma
 Odin
 Nyx 
 Nyai Loro Kidul
-Noet
+Nut
 Njord
 Nintu
 Nikè
 Nezha
-Neptunus
+Neptune
 Nephthys
 Nemesis
 Nekhbet
@@ -96,7 +95,7 @@ Nehalennia
 Nagarjuna
 Morrigan
 Morpheus
-Moet
+Mut
 Miysis
 Mixcoatl
 Mithras
@@ -105,12 +104,12 @@ Min
 Mictlantecuhtli
 Mextli 
 Meskhenet
-Mercurius
+Mercury
 Mars 
 Marduk
 Manánnan Mac Lir
 Maitreya
-Maät
+Maat
 Luna
 Lugh
 Loki
@@ -119,19 +118,18 @@ Lí Ban
 Lakshmi
 Krishna
 Kratos
+Khonsu
 Khnum
+Khepri
 Kálii
 Jupiter
 Juno 
 JHWH
 Jesus
-Jaw
 Janus
-Jam
 Isis 
 Ishvara
 Ishtar 
-Irene
 Indra
 Inanna
 Iduna
@@ -140,7 +138,6 @@ Hygieia
 Huitzilopochtli
 Huehuecoyotl
 Horus
-Hesus
 Hestia 
 Hermes 
 Hera
@@ -155,13 +152,13 @@ Hanuman
 Hades
 Guanyin
 Guan Yu
-Gefion
+Gefjon
 Geb
-Garoeda
+Garuda
 Ganesha
 Gaia
 Freya
-Forsite
+Forseti
 Fodla
 Flora
 Faunus
@@ -176,10 +173,10 @@ Enlil
 Enki
 El
 Ekaliath
+Eirene
 Ehecatl
 Durga
 Donn
-Donar
 Don
 Domnu
 Doeamoetef
@@ -189,19 +186,15 @@ Dian Cécht
 Dhatarattha
 Dharmapala
 Demeter
-Danu 
-Dana
+Danu
 Dagon
 Dagda
 Cybele
-Cupido
-Cumal
+Cupid
 Consus
 Coatlicue
 Clotho
-Chons
 Chicomecoatl
-Chepri
 Cernunnos
 Ceres
 Britomartis
@@ -224,7 +217,7 @@ Baäl
 Aurora
 Atropos
 Aton
-Atoem
+Atum
 Atlas
 Atl
 Athena
@@ -235,7 +228,6 @@ Asclepius
 Artemis
 Ares
 Apsu
-Apollon
 Apollo
 Apis
 Aphrodite
