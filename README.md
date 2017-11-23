@@ -11,7 +11,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
 |[Coins.txt](themes/Coins.txt)|Cryptocurrencies|701|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
-|[Currencies.txt](themes/National and international currencies.txt)|Currencies|77 - to be translated|
+|[Currencies.txt](themes/Currencies.txt)|National and international currencies|77 - to be translated|
 |[Elements.txt](themes/Elements.txt)|Named chemical elements|118|
 |[Em.txt](themes/Em.txt)|Symbols for named chemical elements|118|
 |[Forbes200.txt](themes/Forbes200.txt)|Forbes Global 2000 companies (2012)|200|
