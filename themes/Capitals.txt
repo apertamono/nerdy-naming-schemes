@@ -1,0 +1,196 @@
+// 191 national capitals, sorted by population
+// Source: https://en.wikipedia.org/wiki/List_of_national_capitals_by_population (2017-11-23)
+// Excluding de facto capitals, disputed capitals, city states identical with its capital, disputed capitals (Nicosia, Jerusalem) and non-sovereign territories
+// Including diacritics and special characters
+
+Beijing
+New Delhi
+Tokyo
+Manila
+Moscow
+Cairo
+Jakarta
+Kinshasa
+Seoul
+Dhaka
+Mexico City
+Tehran
+London
+Lima
+Bangkok
+Bogotá
+Hanoi
+Baghdad
+Singapore
+Ankara
+Santiago
+Riyadh
+Berlin
+Damascus
+Algiers
+Madrid
+Pyongyang
+Kabul
+Nairobi
+Athens
+Addis Ababa
+Buenos Aires
+Rome
+Kiev
+Yaoundé
+Brasília
+Amman
+Luanda
+Pretoria
+Paris
+Tashkent
+Baku
+Havana
+Phnom Penh
+Bucharest
+Caracas
+Brazzaville
+Rabat
+Vienna
+Khartoum
+Budapest
+Warsaw
+Minsk
+Kampala
+Accra
+Antananarivo
+Beirut
+Stockholm
+Quito
+Harare
+Doha
+Sana'a
+Conakry
+Kuala Lumpur
+Montevideo
+Lusaka
+Bamako
+Prague
+Port-au-Prince
+Tripoli
+Kuwait City
+Belgrade
+Santo Domingo
+Mogadishu
+Sofia
+Brussels
+Yerevan
+Maputo
+Freetown
+Dublin
+Tbilisi
+Dakar
+Guatemala City
+Monrovia
+Ouagadougou
+Kathmandu
+Islamabad
+Managua
+Naypyidaw
+Ulaanbaatar
+Lilongwe
+Ottawa
+La Paz
+Bishkek
+Astana
+Lomé
+Panama City
+Amsterdam
+Zagreb
+Muscat
+Niamey
+Chisinau
+Abuja
+Tirana
+Tunis
+Ashgabat
+N'Djamena
+Tegucigalpa
+Bangui
+Nouakchott
+Kigali
+Riga
+Kingston
+Washington, D.C.
+Oslo
+Helsinki
+Abu Dhabi
+Dushanbe
+Lisbon
+Copenhagen
+Vilnius
+Libreville
+Asmara
+San Salvador
+Skopje
+Asunción
+Djibouti
+Yamoussoukro
+Bissau
+Tallinn
+Bratislava
+Wellington
+Bujumbura
+Sarajevo
+Juba
+Canberra
+San José
+Port Moresby
+Vientiane
+Dodoma
+Maseru
+Ljubljana
+Paramaribo
+Windhoek
+Nassau
+Gaborone
+Porto-Novo
+Prishtina
+Tiraspol
+Port Louis
+Podgorica
+Manama
+Georgetown
+Praia
+Colombo
+Reykjavík
+Bridgetown
+Malé
+Thimphu
+Malabo
+Suva
+Mbabane
+Luxembourg
+Castries
+Moroni
+Honiara
+Dili
+Sao Tome
+Port of Spain
+Kingstown
+Apia
+Port Vila
+Banjul
+Tarawa
+Victoria
+Bandar Seri Begawan
+Majuro
+Andorra la Vella
+St. John's
+Nuku'alofa
+Belmopan
+Roseau
+Basseterre
+Palikir
+St. George's
+Valletta
+Vaduz
+City of San Marino
+Funafuti
+Hagåtña
+Ngerulmud
