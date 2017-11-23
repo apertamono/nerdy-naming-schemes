@@ -1,23 +1,45 @@
-Algemene Vergadering
-Economische en Sociale Raad
-Internationaal Gerechtshof
-Secretariaat
-Trustschapsraad
-Veiligheidsraad
-Mensenrechtenraad
-IAEA
-ICAO
-IFAD
-ILO
-IMO
-ITU
-FAO
-UNAIDS
-UNESCO
+// United Nations main organs and agencies
+// Sources: http://www.un.org/en/sections/about-un/main-organs/
+// http://www.un.org/en/sections/about-un/funds-programmes-specialized-agencies-and-others/index.html
+// Not mentioned on the main organs page: UN Human Rights Council
+
+General Assembly
+Security Council
+Economic and Social Council
+Trusteeship Council
+International Court of Justice
+Secretariat
+UNDP
 UNICEF
+UNHCR
+WFP
+UNODC
+UNFPA
+UNCTAD
+UNEP
+UNRWA
+UN Women
+UN-Habitat
+World Bank
+IMF
+WHO
+UNESCO
+ILO
+FAO
+IFAD
+IMO
+WMO
+WIPO
+ICAO
+ITU
 UNIDO
 UPU
-Wereldbank
-WHO
-WIPO
-WMO
+UNWTO
+UNAIDS
+UNISDR
+UNOPS
+IAEA
+WTO
+CTBTO
+OPCW
+IOM
