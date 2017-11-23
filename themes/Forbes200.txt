@@ -1,6 +1,9 @@
 // First 200 companies on the Forbes Global 2000 list
 // April 2012, based on revenue, profit, assets and market cap
 
+// This list does not constitute financial advice 
+// It does not guarantee that any of these companies' securities have any value at all
+
 Exxon Mobil
 JPMorgan Chase
 General Electric
