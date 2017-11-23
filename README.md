@@ -1,12 +1,13 @@
 # Thematic lists of names
 
-This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or children if it doesn't matter what they're called. And there may be other use cases I've never heard of.
+This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or children if it doesn't matter what they're called. And there may be other use cases I've never heard of. I prefer lists that are ordered naturally, e.g. by size, so that you don't have to use alphabetical order every time.
 
 ## Overview of themes
 
 |Filename|Theme|# of names|
 |-|-|-|
 |Battleships.txt|Battleships|129|
+|Capitals.txt|National capitals, sorted by population|191|
 |Codes.txt|Codes A0-Z9|260|
 |Coins.txt|Cryptocurrencies|701|
 |Countries.txt|UN member states|193|
