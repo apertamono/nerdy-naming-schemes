@@ -5,7 +5,6 @@
 
 // This list does not constitute financial advice 
 // It does not guarantee that any of these coins have any value at all
-// Don't invest in ICO shit, idiots
 
 Bitcoin
 Ethereum
