@@ -15,7 +15,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 |Elements.txt|Named chemical elements|118|
 |Em.txt|Symbols for named chemical elements|118|
 |Forbes200.txt|Forbes Global 2000 companies (2012)|200|
-|Gods.txt|Gods|261 - to be translated?|
+|Gods.txt|Deities|253|
 |Guns.txt|Historical firearms|169|
 |Numbers.txt|Numerals 00-99|100|
 |Prophets.txt|Prophets according to Islam|25|
