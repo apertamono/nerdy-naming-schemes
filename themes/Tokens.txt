@@ -1,0 +1,327 @@
+// 316 cryptocurrency tokens listed on CoinMarketCap, 2017-11-22
+// Excluding tokens with unknown market cap and coins that have their own blockchain
+// Sorted by market cap
+// Removed special characters: Cofound.it => Cofound it, Grid+ => Grid Plus 
+// Po.et => Po et, DAO.Casino => DAO Casino, Miners' Reward Token => Miners Reward Token
+
+// This includes temporary tokens for future blockchains, like EOS and Ardor
+// This list does not constitute financial advice 
+// It does not guarantee that any of these tokens have any value at all
+// Don't invest in ICO shit, idiots
+
+EOS
+OmiseGO
+Tether
+Populous
+Ardor
+Augur
+Power Ledger
+TenX
+MaidSafeCoin
+Golem
+Gas
+Veritaseum
+SALT
+Raiden Network Token
+Basic Attention Token
+Binance Coin
+TRON
+Aeternity
+DigixDAO
+Kyber Network
+Ethos
+Iconomi
+Status
+Bytom
+Walton
+Civic
+0x
+FunFair
+Bancor
+Metal
+ATMChain
+SingularDTV
+Gnosis
+Storj
+AdEx
+Edgeless
+Aragon
+MobileGo
+PayPie
+ChainLink
+Monaco
+Loopring
+Open Trading Network
+Ripio Credit Network
+Streamr DATAcoin
+Kin
+Zeusshield
+Quantum Resistant Ledger
+iExec RLC
+Wings
+Melon
+Enigma
+SuperNET
+Moeda Loyalty Points
+TaaS
+Pillar
+Substratum
+FirstBlood
+Revain
+SONM
+Tierion
+Centra
+RChain
+Request Network
+Modum
+Cofound it
+Santiment Network Token
+Decentraland
+AirSwap
+TokenCard
+ICOS
+XPlay
+Amber
+WeTrust
+Grid Plus
+Everex
+Cindicator
+district0x
+Triggers
+Cobinhood
+Eidoo
+Target Coin
+Red Pulse
+Xaurum
+Dentacoin
+Stox
+Paragon
+CoinDash
+Delphy
+Etheroll
+DomRaider
+Safe Exchange Coin
+Viberate
+Etherparty
+Jinn
+Pepe Cash
+BitDice
+Aventus
+Enjin Coin
+Agoras Tokens
+Po et
+Agrello
+Mercury
+Chronobank
+Unikoin Gold
+Synereo
+Humaniq
+Mothership
+Numeraire
+Soarcoin
+Matchpool
+MCAP
+Monetha
+Rialto
+Databits
+ALIS
+Blackmoon Crypto
+Nimiq
+Wagerr
+Patientory
+Polybius
+Swarm City
+BCAP
+Primas
+Genesis Vision
+adToken
+Waves Community Token
+Nexium
+Lunyr
+bitqy
+Maecenas
+InvestFeed
+Mysterium
+OBITS
+BlockMason Credit Protocol
+KickCoin
+Quantum
+Farad
+iXledger
+DAO Casino
+OAX
+AirToken
+bitCNY
+EncryptoTel
+BlockCAT
+Incent
+CVCoin
+Rivetz
+Hive
+Change
+Decision Token
+Lampix
+Bitcrystals
+Credo
+DCORP
+Pluton
+Blocktix
+COSS
+Project Decorum
+Aeron
+Ecobit
+VIBE
+ZrCoin
+FoldingCoin
+Qwark
+SunContract
+MyBit Token
+DecentBet
+LAToken
+Creditbit
+Dovu
+Voise
+APX
+NVO
+REAL
+Dent
+Circuits of Value
+Propy
+Xenon
+bitUSD
+Bankcoin
+Autonio
+ClearPoll
+NuShares
+Primalbase Token
+TrueFlip
+Hedge
+CarTaxi Token
+PiplCoin
+Opus
+vSlice
+Tracto
+Social
+Royal Kingdom Coin
+Unity Ingot
+Oceanlab
+RouletteToken
+Darcrus
+Indorse Token
+Embers
+Hubii Network
+Janus
+Remicoin
+Kolion
+AdShares
+Starta
+LIFE
+eBitcoin
+Tokes
+FundYourselfNow
+Altcoin
+ATLANT
+FLiK
+Privatix
+Emphy
+CryptoPing
+Legends Room
+Bitcoin Red
+Internxt
+Elixir
+Qvolta
+FlypMe
+Giga Watt Token
+HelloGold
+CryptoInsight
+SkinCoin
+Ethbits
+Miners Reward Token
+Bowhead
+Monster Byte
+Gimli
+BitBoost
+Ethereum Blue
+EthBet
+Billionaire Token
+WavesGo
+Minereum
+DigitalDevelopersFund
+FuckToken
+Upfiring
+Dalecoin
+bitBTC
+NautilusCoin
+Authorship
+PoSToken
+Bolenum
+Fujinto
+Ethereum Gold
+ELTCOIN
+Octanox
+Senderon
+Sugar Exchange
+FUNCoin
+Ethereum Cash
+bitSilver
+eBitcoinCash
+Confido
+iEthereum
+bitGold
+EOT Token
+bitEUR
+eBTC
+BRAT
+ExchangeN
+ETHGAS
+Dix Asset
+Corethum
+Nebulas Token
+OracleChain
+Prospectors Gold
+Bitland
+ICO OpenLedger
+NEVERDIE
+Intelligent Trading Tech
+Rustbits
+Adelphoi
+Link Platform
+InPay
+Ethereum Movie Venture
+Arcade Token
+Bitpark Coin
+REX
+StarCredits
+Sovereign Hero
+Etheriya
+BTSR
+BlockPay
+Casino
+E4ROW
+Rasputin Online Coin
+FuturXe
+Jetcoin
+CryptoForecast
+Shadow Token
+Goodomy
+Bit20
+Newbium
+iDice
+Ripto Bux
+CoExistCoin
+BitAsean
+300 Token
+Smoke
+DIBCOIN
+eREAL
+JIO Token
+DT Token
+Useless Ethereum Token
+MTMGaming
+NeuroDAO
+Veros
+Qibuck Asset
+JavaScript Token
+CCMiner
+Lex4All
+BurstOcean
