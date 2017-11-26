@@ -8,6 +8,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 |-|-|-|
 |[Battleships.txt](themes/Battleships.txt)|Battleships|129|
 |[Capitals.txt](themes/Capitals.txt)|National capitals, sorted by population|191|
+|[Cities.txt](themes/Cities.txt)|Largest cities in the world|238|
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
 |[Coins.txt](themes/Coins.txt)|Cryptocurrencies|701|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
@@ -22,6 +23,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
 |[Stars.txt](themes/Stars.txt)|Celestial bodies|55|
 |[StarTrek.txt](themes/StarTrek.txt)|Star Trek characters|204|
+|[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
 Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
