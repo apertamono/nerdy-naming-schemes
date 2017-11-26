@@ -1,0 +1,243 @@
+// Largest cities in the world, by population
+// Not urban areas but only cities proper
+// Minimum: 1 million inhabitants
+// Source: https://en.wikipedia.org/wiki/List_of_largest_cities
+
+Chongqing
+Shanghai
+Delhi
+Beijing
+Mumbai
+Lagos
+Karachi
+Dhaka
+Guangzhou
+Istanbul
+Tokyo
+Bengaluru
+Moscow
+São Paulo
+Lahore
+Cairo
+Kinshasa
+Jakarta
+Seoul
+Wenzhou
+Mexico City
+Lima
+London
+Xi'an
+Hyderabad
+Chennai
+New York City
+Shenzhen
+Bangkok
+Suzhou
+Nanjing
+Dongguan
+Tehran
+Quanzhou
+Shenyang
+Bogotá
+Ho Chi Minh City
+Hong Kong
+Baghdad
+Fuzhou
+Changsha
+Wuhan
+Tianjin
+Hanoi
+Rio de Janeiro
+Qingdao
+Foshan
+Zunyi
+Santiago
+Riyadh
+Ahmedabad
+Singapore
+Shantou
+Ankara
+Yangon
+Saint Petersburg
+Casablanca
+Abidjan
+Chengdu
+Alexandria
+Kolkata
+Surat
+Johannesburg
+Dar es Salaam
+Shijiazhuang
+Harbin
+Giza
+Izmir
+Zhengzhou
+New Taipei City
+Los Angeles
+Changchun
+Cape Town
+Yokohama
+Khartoum
+Guayaquil
+Hangzhou
+Xiamen
+Berlin
+Busan
+Ningbo
+Jeddah
+Durban
+Algiers
+Kabul
+Hefei
+Mashhad
+Pyongyang
+Madrid
+Faisalabad
+Baku
+Tangshan
+Ekurhuleni
+Nairobi
+Zhongshan
+Pune
+Addis Ababa
+Jaipur
+Buenos Aires
+Incheon
+Quezon City
+Kiev
+Salvador
+Rome
+Dubai
+Luanda
+Lucknow
+Kaohsiung
+Kanpur
+Surabaya
+Taichung
+Basra
+Toronto
+Taipei
+Chicago
+Osaka
+Quito
+Chaozhou
+Fortaleza
+Chittagong
+Bandung
+Managua
+Brasília
+Belo Horizonte
+Daegu
+Houston
+Douala
+Medellin
+Yaoundé
+Nagpur
+Cali
+Tashkent
+Nagoya
+Isfahan
+Phnom Penh
+Kochi
+Paris
+Ouagadougou
+Lanzhou
+Kano
+Dalian
+Guatemala City
+Havana
+Rawalpindi
+Medan
+Accra
+Visakhapatnam
+Gujranwala
+Jinan
+Karaj
+Peshawar
+Minsk
+Caracas
+Sana'a
+Sapporo
+Tainan
+Bucharest
+Curitiba
+Shiraz
+Vienna
+Brazzaville
+Bhopal
+Hamburg
+Manila
+Kuala Lumpur
+Maputo
+Budapest
+Warsaw
+Lusaka
+Kathmandu
+Tabriz
+Hyderabad
+Palembang
+Almaty
+Tijuana
+Patna
+Montreal
+Davao City
+Harare
+Barcelona
+Maracaibo
+Caloocan
+Philadelphia
+Novosibirsk
+Phoenix
+Bulawayo
+Oran
+Semarang
+Recife
+Kobe
+Daejeon
+Kampala
+Kawasaki
+Guadalajara
+Auckland
+Vijayawada
+Fukuoka
+Kwangju
+Porto Alegre
+Kyoto
+San Antonio
+Santa Cruz de la Sierra
+Munich
+Kharkiv
+Yekaterinburg
+San Diego
+Barranquilla
+Milan
+Ibadan
+Makassar
+Córdoba
+Prague
+Mandalay
+Dallas
+Montevideo
+Nizhny Novgorod
+Abuja
+Calgary
+Saitama
+Hiroshima
+Rosario
+Brisbane
+Belgrade
+Campinas
+Ulsan
+Omsk
+Dakar
+Abu Dhabi
+Monterrey
+Tripoli
+Rostov-on-Don
+T'bilisi
+Fez
+Birmingham
+Yerevan
+Cologne
+Tunis
+Islamabad
