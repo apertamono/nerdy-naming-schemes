@@ -1,6 +1,6 @@
 # Thematic lists of names
 
-This is a collection of thematic word lists that you could use to name a dozen or a few hundred files, servers or children if it doesn't matter what they're called. And there may be other use cases I've never heard of. I prefer lists that are ordered naturally, e.g. by size, so that you don't have to use alphabetical order every time.
+This is a collection of thematic word lists that you could use to name a dozen servers or a few hundred files if it doesn't matter what they're called. And there may be other use cases I've never heard of. I prefer lists that are ordered naturally, e.g. by size, so that you don't have to use alphabetical order every time. Most of these lists contain some diacritics and special characters; it's an international collection. Besides general comments at the top, names are not explained, so you can copy a whole list at once, and use it to assign names automatically.
 
 ## Overview of themes
 
@@ -26,7 +26,7 @@ This is a collection of thematic word lists that you could use to name a dozen o
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
-Most of these lists contain some diacritics. Besides general comments at the top, the lists don't contain any explanations, so that you can copy a whole list at once, and use it to assign names automatically.
+Themes to be added later: books of the Bible, human genes (very long list), minerals, biological species in various categories (difficult if you don't want to use the Latin names).
 
 ## History
 
@@ -34,6 +34,10 @@ This collection wasn't started in an office. Do you remember playing **Sid Meier
 
 The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is going to be a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
 
-## Links
+## Other collections
 
-See also https://en.wikipedia.org/wiki/List_of_lists_of_lists (although Wikipedia doesn't contain plain lists without explanations). And there's a useful collection of naming schemes at https://namingschemes.com/.
+I started this collection before I knew the term '[naming scheme](https://en.wikipedia.org/wiki/Computer_network_naming_scheme)'. So I'm not sure whether I know all the relevant sources. Many lists in the collections I found contain explanations and comments, so you can't use them to assign names automatically.
+* https://namingschemes.com/
+* https://en.wikipedia.org/wiki/List_of_lists_of_lists 
+* [odan's collection of project name links](https://gist.github.com/odan/3eb5bbd32f9800de4842bfbc9d7c5968)
+* The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982)
