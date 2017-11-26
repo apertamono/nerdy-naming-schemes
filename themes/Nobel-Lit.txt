@@ -1,0 +1,117 @@
+// Source: https://www.nobelprize.org/nobel_prizes/literature/laureates/
+// "The Nobel Prize in Literature has been awarded 110 times to 114 Nobel Laureates between 1901 and 2017." 
+
+Kazuo Ishiguro
+Bob Dylan
+Svetlana Alexievich
+Patrick Modiano
+Alice Munro
+Mo Yan
+Tomas Tranströmer
+Mario Vargas Llosa
+Herta Müller
+Jean-Marie Gustave Le Clézio
+Doris Lessing
+Orhan Pamuk
+Harold Pinter
+Elfriede Jelinek
+John M. Coetzee
+Imre Kertész
+Sir Vidiadhar Surajprasad Naipaul
+Gao Xingjian
+Günter Grass
+José Saramago
+Dario Fo
+Wislawa Szymborska
+Seamus Heaney
+Kenzaburo Oe
+Toni Morrison
+Derek Walcott
+Nadine Gordimer
+Octavio Paz
+Camilo José Cela
+Naguib Mahfouz
+Joseph Brodsky
+Wole Soyinka
+Claude Simon
+Jaroslav Seifert
+William Golding
+Gabriel García Márquez
+Elias Canetti
+Czeslaw Milosz
+Odysseus Elytis
+Isaac Bashevis Singer
+Vicente Aleixandre
+Saul Bellow
+Eugenio Montale
+Eyvind Johnson
+Harry Martinson
+Patrick White
+Heinrich Böll
+Pablo Neruda
+Aleksandr Isayevich Solzhenitsyn
+Samuel Beckett
+Yasunari Kawabata
+Miguel Angel Asturias
+Shmuel Yosef Agnon
+Nelly Sachs
+Mikhail Aleksandrovich Sholokhov
+Jean-Paul Sartre
+Giorgos Seferis
+John Steinbeck
+Ivo Andric
+Saint-John Perse
+Salvatore Quasimodo
+Boris Leonidovich Pasternak
+Albert Camus
+Juan Ramón Jiménez
+Halldór Kiljan Laxness
+Ernest Miller Hemingway
+Sir Winston Leonard Spencer Churchill
+François Mauriac
+Pär Fabian Lagerkvist
+Earl (Bertrand Arthur William) Russell
+William Faulkner
+Thomas Stearns Eliot
+André Paul Guillaume Gide
+Hermann Hesse
+Gabriela Mistral
+Johannes Vilhelm Jensen
+Frans Eemil Sillanpää
+Pearl Buck
+Roger Martin du Gard
+Eugene Gladstone O'Neill
+Luigi Pirandello
+Ivan Alekseyevich Bunin
+John Galsworthy
+Erik Axel Karlfeldt
+Sinclair Lewis
+Thomas Mann
+Sigrid Undset
+Henri Bergson
+Grazia Deledda
+George Bernard Shaw
+Wladyslaw Stanislaw Reymont
+William Butler Yeats
+Jacinto Benavente
+Anatole France
+Knut Pedersen Hamsun
+Carl Friedrich Georg Spitteler
+Karl Adolph Gjellerup
+Henrik Pontoppidan
+Carl Gustaf Verner von Heidenstam
+Romain Rolland
+Rabindranath Tagore
+Gerhart Johann Robert Hauptmann
+Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck
+Paul Johann Ludwig Heyse
+Selma Ottilia Lovisa Lagerlöf
+Rudolf Christoph Eucken
+Rudyard Kipling
+Giosuè Carducci
+Henryk Sienkiewicz
+Frédéric Mistral
+José Echegaray y Eizaguirre
+Bjørnstjerne Martinus Bjørnson
+Christian Matthias Theodor Mommsen
+Sully Prudhomme
