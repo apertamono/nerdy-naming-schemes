@@ -23,7 +23,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
 |[Stars.txt](themes/Stars.txt)|Celestial bodies|55|
 |[StarTrek.txt](themes/StarTrek.txt)|Star Trek characters|204|
-|[Surnames-US.txt](themes/Surnames-US.txt|Most common surnames in the USA|1000|
+|[Surnames-US.txt](themes/Surnames-US.txt)|Most common surnames in the USA|1000|
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
