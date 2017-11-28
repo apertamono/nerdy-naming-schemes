@@ -1,33 +1,32 @@
-// 1. Munteenheden die in meerdere landen worden gebruikt
-// 2. Overige bestaande munteenheden. Volgorde: landnaam alfabetisch
-// Varianten zoals rial/riyal voor real en denar voor dinar niet opgenomen
-// Maar wel yen/yuan/won, lev/leu, dram/dirham
-// Twee vermeldingen voor pond sterling (+Turkse Lira) en yuan renminbi
-// Bron: http://nl.wikipedia.org/wiki/Lijst_van_munteenheden
+// 1. Currencies that are used in multiple countries
+// 2. Other circulating currencies, in alphabetical order of the issuing countries
+// Excluding obvious variants: rial/riyal, denar/dinar, krone/krona/koruna, peso/piso
+// But other variants were included: yen/yuan/won, lev/leu, dram/dirham
+// Pound sterling (+ Turkish Lira) and yuan renminbi are important enough to include both names
+// Source: http://nl.wikipedia.org/wiki/Lijst_van_munteenheden
  
-Colón
 Dinar
 Dirham
 Dollar
 Euro
-Frank
-Kroon
+Franc
+Krone
 Kwacha
 Leu
 Manat
 Peso
 Real
-Roebel
-Pond
+Ruble
+Pound
 Sterling
-Roepie
+Rupee
 Shilling
 Won
 Afghani
 Kwanza
-Florin
 Lek
 Dram
+Florin
 Taka
 Ngultrum
 Mark
@@ -36,6 +35,8 @@ Pula
 Lev
 Renminbi
 Yuan
+Colón
+Gulden
 Nakfa
 Birr
 Lari
@@ -51,9 +52,7 @@ Escudo
 Tenge
 Kuna
 Kip
-Lats
 Loti
-Litas
 Pataca
 Ariary
 Ringgit
@@ -81,4 +80,4 @@ Lira
 Vatu
 Bolivar
 Dong
-Rand 
+Rand
