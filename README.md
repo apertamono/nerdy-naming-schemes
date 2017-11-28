@@ -1,6 +1,6 @@
 # Thematic lists of names
 
-This is a collection of thematic word lists that you could use to name a dozen servers or a few hundred files if it doesn't matter what they're called. The first of these lists were created to name cities in a game, and I think they could be useful in scripts that generate texts. There may be other use cases I've never heard of. I prefer lists that are ordered naturally, e.g. by size, so that you don't have to use alphabetical order every time. Most of these lists contain some diacritics and special characters; it's an international collection. Besides general comments at the top, names are not explained, so you can copy a whole list at once, and use it to assign names automatically.
+This is a collection of thematic word lists that you could use to name a dozen servers or a few hundred files. The first of these lists were created to name cities in a game, and I think they could be useful in scripts that generate texts. There may be other use cases I've never heard of. I prefer lists that are ordered naturally, e.g. by size, so that you don't have to use alphabetical order every time. Most of these lists contain some diacritics and special characters; it's an international collection. Besides general comments at the top, names are not explained, so you can copy a whole list at once, and use it to assign names automatically.
 
 ## Overview of themes
 
