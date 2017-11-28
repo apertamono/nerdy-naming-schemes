@@ -7,6 +7,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |Filename|Theme|# of names|
 |-|-|-|
 |[Battleships.txt](themes/Battleships.txt)|Historical battleship classes|129|
+|[Bitcoin.txt](themes/Bitcoin.txt)|Bitcoin addresses|64|
 |[Capitals.txt](themes/Capitals.txt)|National capitals, sorted by population|191|
 |[Cities.txt](themes/Cities.txt)|Largest cities in the world|238|
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
