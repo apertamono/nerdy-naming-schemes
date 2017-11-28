@@ -4,7 +4,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 
 ## Overview of themes
 
-|Filename|Theme|# of names|
+|Filename|Theme|Number of names|
 |-|-|-|
 |[Battleships.txt](themes/Battleships.txt)|Historical battleship classes|129|
 |[Bitcoin.txt](themes/Bitcoin.txt)|Bitcoin addresses|64|
@@ -20,7 +20,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Forbes200.txt](themes/Forbes200.txt)|Forbes Global 2000 companies (2012)|200|
 |[Gods.txt](themes/Gods.txt)|Deities|253|
 |[Guns.txt](themes/Guns.txt)|Historical firearms|169|
-|[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Nobel Laureates in Literature|114|
+|[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize in Literature|114|
 |[Numbers.txt](themes/Numbers.txt)|Numerals 00-99|100|
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
 |[Stars.txt](themes/Stars.txt)|The brightest celestial bodies|55|
