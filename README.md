@@ -20,6 +20,9 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Forbes200.txt](themes/Forbes200.txt)|Forbes Global 2000 companies (2012)|200|
 |[Gods.txt](themes/Gods.txt)|Deities|253|
 |[Guns.txt](themes/Guns.txt)|Historical firearms|169|
+|[Ice.txt](themes/Ice.txt)|Words for ice in Yupik|99|
+|[Names-NL-female.txt](themes/Names-NL-female.txt)|First names for girls in the Netherlands|250|
+|[Names-NL-male.txt](themes/Names-NL-male.txt)|First names for boys in the Netherlands|250|
 |[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize in Literature|114|
 |[Numbers.txt](themes/Numbers.txt)|Numerals 00-99|100|
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
