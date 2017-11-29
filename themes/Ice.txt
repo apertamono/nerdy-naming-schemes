@@ -1,4 +1,5 @@
 // 99 words for ice in Yupik
+// More than 100 if you include variants, but I removed those
 // Found them in a PDF with descriptions in Dutch I downloaded years ago
 // Indirect source: Observations by Conrad Oozeva recorded in Watching Ice And Weather Our Way: Sikumengllu Eslamengllu Esghapalleghput. By Conrad Oozeva, Chester Noongwook, George Noongwook, Christina Alowa, and Igor Krupnik. Washington, D.C.: Arctic Studies Center, Smithsonian Institution, and Savoonga, Alaska: Savoonga Whaling Captains Association, 2004. ISBN 0-9673429-5-3
 
