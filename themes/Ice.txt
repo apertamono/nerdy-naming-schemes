@@ -37,6 +37,8 @@ Kulusiq
 Laaq
 Luughek
 Maklukestaq
+Meghhaak
+Nakaghlleq
 Napatak
 Nasaghuk
 Nevesqaghneq
@@ -57,8 +59,8 @@ Qayemgu
 Qelughtaaq
 Qenghuk
 Qenu
-Qerngayaak
 Qenughhaghaq
+Qerngayaak
 Qivallekeltaq
 Qivalluk
 Qivenghak
@@ -100,5 +102,3 @@ Uultelleq
 Uusqaayak
 Uygulliiq
 Vuusleq
-Meghhaak
-Nakaghlleq
