@@ -44,7 +44,7 @@ The **themes** folder contains the thematic lists in plain text, plus some comme
 ## Other collections
 
 I started this collection before I knew the term '[naming scheme](https://en.wikipedia.org/wiki/Computer_network_naming_scheme)'. So I'm not sure whether I know all the relevant sources. Many lists in the collections I found contain explanations and comments, so you can't use them to assign names automatically.
-* [http://www.codenamegenerator.com/](Code Name Generator)
+* [Code Name Generator](http://www.codenamegenerator.com/)
 * https://namingschemes.com/
 * https://en.wikipedia.org/wiki/List_of_lists_of_lists 
 * [odan's collection of project name links](https://gist.github.com/odan/3eb5bbd32f9800de4842bfbc9d7c5968/revisions)
