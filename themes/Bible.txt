@@ -1,0 +1,68 @@
+// Canonical and deuterocanonical books of the Roman Catholic Bible in English
+// Using the names from the King James Version, as is common today
+// Unique names without numbers
+// John not included under the epistles, because it's already one of the gospels
+// Which leaves 62 names from a canon of 74 books
+
+Genesis
+Exodus
+Leviticus
+Numbers
+Deuteronomy
+Joshua
+Judges
+Ruth
+Samuel
+Kings
+Chronicles
+Ezra
+Nehemiah
+Tobit
+Judith
+Esther
+Maccabees
+Job
+Psalms
+Proverbs
+Ecclesiastes
+Song of Songs
+Wisdom
+Sirach
+Isiah
+Jeremiah
+Lamentations
+Baruch
+Ezekiel
+Daniel
+Hosea
+Joel
+Amos
+Obadiah
+Jonah
+Micah
+Nahum
+Habakkuk
+Zephaniah
+Haggai
+Zechariah
+Malachi
+Matthew
+Mark
+Luke
+John
+Acts
+Romans
+Corinthians
+Galatians
+Ephesians
+Philippians
+Colossians
+Thessalonians
+Timothy
+Titus
+Philemon
+Hebrews
+James
+Peter
+Jude
+Revelation
