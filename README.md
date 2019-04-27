@@ -34,13 +34,13 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
-Themes to be added later: Shakespeare characters, human genes (very long list), minerals, biological species in various categories (difficult if you don't want to use the Latin names). If you want to add a list, please make a pull request with the new file. I will add the description here.
+Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here.
 
 ## History
 
 This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
-The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is going to be a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
+The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
 
 ## Other collections
 
