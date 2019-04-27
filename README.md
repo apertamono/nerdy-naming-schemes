@@ -34,7 +34,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
-Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here.
+Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, winners of the Fields Medal, more Nobel Prize winners, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list - not just one person's favorites.
 
 ## History
 
