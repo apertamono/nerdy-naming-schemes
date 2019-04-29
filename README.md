@@ -23,6 +23,8 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Gods.txt](themes/Gods.txt)|Deities|253|
 |[Guns.txt](themes/Guns.txt)|Historical firearms|169|
 |[Ice.txt](themes/Ice.txt)|Words for ice in Yupik|99|
+|[Langfam_niger-congo.txt](themes/Langfam_niger-congo.txt)|Language family: Niger-Congo|1400|
+|[Language_isolates.txt](themes/Language_isolates.txt)|Language isolates|88|
 |[Names-NL-female.txt](themes/Names-NL-female.txt)|First names for girls in the Netherlands|250|
 |[Names-NL-male.txt](themes/Names-NL-male.txt)|First names for boys in the Netherlands|250|
 |[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|114|
