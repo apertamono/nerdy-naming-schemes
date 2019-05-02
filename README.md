@@ -23,8 +23,10 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Gods.txt](themes/Gods.txt)|Deities|253|
 |[Guns.txt](themes/Guns.txt)|Historical firearms|169|
 |[Ice.txt](themes/Ice.txt)|Words for ice in Yupik|99|
-|[Langfam_niger-congo.txt](themes/Langfam_niger-congo.txt)|Language family: Niger-Congo|1400|
-|[Language_isolates.txt](themes/Language_isolates.txt)|Language isolates|88|
+|[Langfam_Austronesian.txt](themes/Langfam_Austronesian.txt)|Language family: Austronesian|1094|
+|[Langfam_Niger-Congo.txt](themes/Langfam_Niger-Congo.txt)|Language family: Niger-Congo|1400|
+|[Langfam_Trans-New-Guinea.txt](themes/Langfam_Trans-New-Guinea.txt)|Language family: Trans-New-Guinea|459|
+|[Language_isolates.txt](themes/Language_isolates.txt)|Isolated languages|88|
 |[Names-NL-female.txt](themes/Names-NL-female.txt)|First names for girls in the Netherlands|250|
 |[Names-NL-male.txt](themes/Names-NL-male.txt)|First names for boys in the Netherlands|250|
 |[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|114|
@@ -36,7 +38,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
-Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, winners of the Fields Medal, more Nobel Prize winners, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list - not just one person's favorites.
+Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, winners of the Fields Medal, more Nobel Prize winners, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list representing significant cultural heritage or natural phenomena - not just one person's favorites.
 
 ## History
 
