@@ -53,4 +53,6 @@ I started this collection before I knew the term '[naming scheme](https://en.wik
 * https://namingschemes.com/
 * https://en.wikipedia.org/wiki/List_of_lists_of_lists 
 * [odan's collection of project name links](https://gist.github.com/odan/3eb5bbd32f9800de4842bfbc9d7c5968/revisions)
+* [The EFF's diceware word lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
+* [Most popular first names in the Netherlands by year, region and place](http://www.meertens.knaw.nl/nvb/topnamen)
 * The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982)
