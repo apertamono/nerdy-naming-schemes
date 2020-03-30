@@ -56,3 +56,4 @@ I started this collection before I knew the term '[naming scheme](https://en.wik
 * [The EFF's diceware word lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 * [Most popular first names in the Netherlands by year, region and place](http://www.meertens.knaw.nl/nvb/topnamen)
 * The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982)
+* [Emily's Fantasy Name Generators](https://www.fantasynamegenerators.com/) allow you to select 10 random names out of countless collections of real and made-up names.
