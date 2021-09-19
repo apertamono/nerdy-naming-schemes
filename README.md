@@ -29,7 +29,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Language_isolates.txt](themes/Language_isolates.txt)|Isolated languages|88|
 |[Names-NL-female.txt](themes/Names-NL-female.txt)|First names for girls in the Netherlands|250|
 |[Names-NL-male.txt](themes/Names-NL-male.txt)|First names for boys in the Netherlands|250|
-|[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|114|
+|[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|117|
 |[Numbers.txt](themes/Numbers.txt)|Numerals 00-99|100|
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
 |[Stars.txt](themes/Stars.txt)|The brightest celestial bodies|55|
