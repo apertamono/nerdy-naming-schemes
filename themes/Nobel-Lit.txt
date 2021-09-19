@@ -1,6 +1,10 @@
 // Source: https://www.nobelprize.org/nobel_prizes/literature/laureates/
-// "The Nobel Prize in Literature has been awarded 110 times to 114 Nobel Laureates between 1901 and 2017." 
+// "The Nobel Prize in Literature has been awarded 113 times to 117 Nobel Prize laureates between 1901 and 2020."
+// 2021 prize to be announced on Thursday 7 October, 13:00 CEST at the earliest.
 
+Louise Glück
+Peter Handke
+Olga Tokarczuk
 Kazuo Ishiguro
 Bob Dylan
 Svetlana Alexievich
