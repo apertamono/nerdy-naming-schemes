@@ -30,7 +30,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Names-NL-female.txt](themes/Names-NL-female.txt)|First names for girls in the Netherlands|250|
 |[Names-NL-male.txt](themes/Names-NL-male.txt)|First names for boys in the Netherlands|250|
 |[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|117|
-|[Numbers.txt](themes/Numbers.txt)|Numerals 00-99|100|
+|[Numbers.txt](themes/Numbers.txt)|Numerals 000-999|1000|
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
 |[Stars.txt](themes/Stars.txt)|The brightest celestial bodies|55|
 |[StarTrek.txt](themes/StarTrek.txt)|Star Trek characters|204|
@@ -54,5 +54,5 @@ I started this collection before I knew the term '[naming scheme](https://en.wik
 * https://en.wikipedia.org/wiki/List_of_lists_of_lists 
 * [The EFF's diceware word lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 * [Most popular first names in the Netherlands by year, region and place](http://www.meertens.knaw.nl/nvb/topnamen)
-* The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982)
+* The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982).
 * [Emily's Fantasy Name Generators](https://www.fantasynamegenerators.com/) will give you 10 random names out of countless collections of real and made-up names.
