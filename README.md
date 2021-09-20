@@ -6,6 +6,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 
 |Filename|Theme|Number of names|
 |-|-|-|
+|[Asteroids.txt](themes/Asteroids.txt)|Asteroids/minor planets/SSSBs|22,708|
 |[Battleships.txt](themes/Battleships.txt)|Historical battleship classes|129|
 |[Bible.txt](themes/Bible.txt)|Bible books|62|
 |[Bitcoin.txt](themes/Bitcoin.txt)|Bitcoin addresses|64|
