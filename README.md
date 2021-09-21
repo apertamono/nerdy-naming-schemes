@@ -20,7 +20,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Em.txt](themes/Em.txt)|Symbols for named chemical elements|118|
 |[Esperanto.txt](themes/Esperanto.txt)|Esperanto words|1626|
 |[Fish.txt](themes/Fish.txt)|Common fish names|1086|
-|[Forbes200.txt](themes/Forbes200.txt)|Forbes Global 2000 companies (2012)|200|
+|[Forbes2000.txt](themes/Forbes2000.txt)|Forbes Global 2000 companies (2021)|2000|
 |[Gods.txt](themes/Gods.txt)|Deities|253|
 |[Guns.txt](themes/Guns.txt)|Historical firearms|169|
 |[Ice.txt](themes/Ice.txt)|Words for ice in Yupik|99|
