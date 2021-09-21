@@ -13,7 +13,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Capitals.txt](themes/Capitals.txt)|National capitals|191|
 |[Cities.txt](themes/Cities.txt)|Largest cities in the world|238|
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
-|[Coins.txt](themes/Coins.txt)|Cryptocurrencies|701|
+|[Coins.txt](themes/Coins.txt)|Cryptocurrencies (2017)|701|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
 |[Currencies.txt](themes/Currencies.txt)|National and international currencies|76|
 |[Elements.txt](themes/Elements.txt)|Named chemical elements|118|
@@ -36,16 +36,18 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Stars.txt](themes/Stars.txt)|The brightest celestial bodies|55|
 |[StarTrek.txt](themes/StarTrek.txt)|Star Trek characters|204|
 |[Surnames-US.txt](themes/Surnames-US.txt)|Most common surnames in the USA|1000|
-|[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens|316|
+|[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens (2017)|316|
 |[UN.txt](themes/UN.txt)|United Nations organs and agencies|40|
 
-Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, winners of the Fields Medal, more Nobel Prize winners, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list representing significant cultural heritage or natural phenomena - not just one person's favorites.
+Themes to be added later: Moons of the solar system, minerals, Shakespeare characters, Quran chapters, members of the Académie française, winners of the Fields Medal, more Nobel Prize winners, ancient kings and emperors, human genes (very long list). If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list representing significant cultural heritage or natural phenomena - not just one person's favorites. I try to represent cultures from across the world, while focusing on Latin text for technical reasons.
 
 ## History
 
 This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
 
 The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
+
+In 2017, cryptocurrencies securing their own blockchain and other tokens were listed separately, but this distinction isn't so clear anymore, and providers of market cap statistics don't separate their rankings into coins and tokens anymore. I'll keep the lists from 2017 for historical interest, and I'll add a new list of crypoassets in general.
 
 ## Other collections
 
