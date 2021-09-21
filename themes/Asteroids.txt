@@ -1,9 +1,12 @@
 // Source: https://minorplanetcenter.net/iau/lists/MPNames.html - but sorted by number
 // 22,708 names (retrieved September 19, 2021)
+// Names registered by the International Astronomical Union
 // Official category name since 2006: small solar system bodies
+// Asteroids, minor planets and SSSBs are overlapping but different categories
+
 // Strictly edited so that only the Latin letters A-Z are used and only the first letter is capitalized
 // No diacritics, spaces, apostrophes, click letters, periods or hyphens
-// "ENIAC" becomes Eniac, "van 't Hoff" becomes Vanthoff, "Šíma" becomes Sima, "G!kun||'homdima" becomes Gkunhomdima and "Dr. G." becomes Drg
+// "ENIAC" becomes Eniac, "van 't Hoff" becomes Vanthoff, "Šíma" becomes Sima, "G!kun||'homdima" becomes Gkunhomdima, "ZZ Top" becomes Zztop and "Dr. G." becomes Drg
 
 Ceres
 Pallas
