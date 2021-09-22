@@ -37,6 +37,7 @@ Renminbi
 Yuan
 Colón
 Gulden
+Bitcoin
 Nakfa
 Birr
 Lari
