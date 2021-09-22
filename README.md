@@ -15,7 +15,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
 |[Coins.txt](themes/Coins.txt)|Cryptocurrencies (2017)|701|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
-|[Currencies.txt](themes/Currencies.txt)|National and international currencies|76|
+|[Currencies.txt](themes/Currencies.txt)|National and international currencies|77|
 |[Elements.txt](themes/Elements.txt)|Named chemical elements|118|
 |[Em.txt](themes/Em.txt)|Symbols for named chemical elements|118|
 |[Esperanto.txt](themes/Esperanto.txt)|Esperanto words|1626|
