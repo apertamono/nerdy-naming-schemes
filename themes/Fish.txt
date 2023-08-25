@@ -34,7 +34,6 @@ Armored gurnard
 Armored searobin
 Armorhead
 Armorhead catfish
-Armoured catfish
 Arowana
 Arrowtooth eel
 Asian carps
@@ -60,10 +59,8 @@ Bamboo shark
 Banded killifish
 Bandfish
 Bangus
-Banjo
 Banjo catfish
 Bank Sea Bass
-Bank sea bass
 Barb
 Barbel
 Barbel-less catfish
