@@ -1,8 +1,8 @@
-// Traditional list of Chinese family names
+// Traditional list of Chinese family names, in traditional Chinese characters
 // Source: https://en.wikipedia.org/wiki/Hundred_Family_Surnames
-// The number 507 is wrong there, it's actually 504 names, according to https://zh.wikipedia.org/wiki/%E7%99%BE%E5%AE%B6%E5%A7%93
+// The number 507 is wrong there; it's actually 504 names, according to https://zh.wikipedia.org/wiki/%E7%99%BE%E5%AE%B6%E5%A7%93
 // It makes no sense to include the final text "Bǎijiāxìng zhōng" in the count
-// I used the English Wikipedia version because the text is usually displayed in blocks of 4 characters, while some names have 2 characters
+// I used the English Wikipedia version because the text is usually displayed in blocks of 4 characters, while some names have 2 characters rather than 1
 
 趙
 錢
