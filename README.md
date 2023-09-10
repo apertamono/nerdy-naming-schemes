@@ -48,7 +48,7 @@ This collection wasn't started in an office. Do you remember playing **Sid Meier
 
 The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
 
-In 2017, cryptocurrencies securing their own blockchain and other tokens were listed separately, but this distinction isn't so clear anymore, and providers of market cap statistics don't separate their rankings into coins and tokens anymore. I'll keep the lists from 2017 for historical interest, and I'll add a new list of crypoassets in general.
+In 2017, cryptocurrencies securing their own blockchain and other tokens were listed separately, but this distinction isn't so clear anymore, and providers of market cap statistics don't separate their rankings into coins and tokens anymore. I'll keep the lists from 2017 for historical interest.
 
 ## Other collections
 
