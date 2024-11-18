@@ -58,6 +58,8 @@ I started this collection before I knew the term '[naming scheme](https://en.wik
 * https://en.wikipedia.org/wiki/List_of_lists_of_lists 
 * [The EFF's diceware word lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
 * Bitcoin's [BIP-39 word lists](https://github.com/bitcoin/bips/tree/master/bip-0039)
+* SecLists lists of [leaked passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Most popular first names in the Netherlands](http://www.meertens.knaw.nl/nvb/topnamen) by year, region and place
 * The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982).
 * [Emily's Fantasy Name Generators](https://www.fantasynamegenerators.com/) will give you 10 random names out of countless collections of real and made-up names.
