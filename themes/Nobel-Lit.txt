@@ -1,8 +1,9 @@
 // Source: https://www.nobelprize.org/nobel_prizes/literature/laureates/
 // "The Nobel Prize in Literature has been awarded 113 times to 117 Nobel Prize laureates between 1901 and 2020."
-// Updated until 2022.
-// 2023 prize to be announced on Thursday 5 October, 13:00 CEST at the earliest.
+// Updated until 2024.
 
+Han Kang
+Jon Fosse
 Annie Ernaux
 Abdulrazak Gurnah
 Louise Glück
