@@ -1,243 +1,480 @@
 // Largest cities in the world, by population
 // Not urban areas but only cities proper
 // Minimum: 1 million inhabitants
-// Source: https://en.wikipedia.org/wiki/List_of_largest_cities
+// Source: https://en.wikipedia.org/wiki/List_of_cities_with_over_one_million_inhabitants
 
-Chongqing
 Shanghai
 Delhi
-Beijing
-Mumbai
-Lagos
 Karachi
-Dhaka
-Guangzhou
-Istanbul
-Tokyo
-Bengaluru
-Moscow
-São Paulo
-Lahore
-Cairo
-Kinshasa
-Jakarta
-Seoul
-Wenzhou
-Mexico City
-Lima
-London
-Xi'an
-Hyderabad
-Chennai
-New York City
+Beijing
 Shenzhen
-Bangkok
-Suzhou
-Nanjing
-Dongguan
-Tehran
-Quanzhou
-Shenyang
-Bogotá
-Ho Chi Minh City
-Hong Kong
-Baghdad
-Fuzhou
-Changsha
-Wuhan
+Guangzhou
+Lagos
+Istanbul
+Manila
+Kinshasa
+Bangalore
+Tokyo
+Chengdu
+Mumbai
+Moscow
+Lahore
+São Paulo
 Tianjin
-Hanoi
+Jakarta
+Wuhan
+Dhaka
+Hyderabad
+Lima
+Chennai
+Dongguan
+Cairo
+Seoul
+Chongqing
+Xi’an
+Hangzhou
+Mexico City
+Luanda
+Foshan
+Tehran
+London
+Bangkok
+New York City
+Ahmedabad
+Bogotá
+Surat
+Nanjing
+Hong Kong
+Shenyang
+Ho Chi Minh City
+Riyadh
+Baghdad
+Zhengzhou
 Rio de Janeiro
 Qingdao
-Foshan
-Zunyi
-Santiago
-Riyadh
-Ahmedabad
-Singapore
-Shantou
-Ankara
-Yangon
-Saint Petersburg
-Casablanca
-Abidjan
-Chengdu
-Alexandria
 Kolkata
-Surat
-Johannesburg
-Dar es Salaam
-Shijiazhuang
-Harbin
-Giza
-Izmir
-Zhengzhou
-New Taipei City
-Los Angeles
-Changchun
-Cape Town
-Yokohama
-Khartoum
-Guayaquil
-Hangzhou
-Xiamen
-Berlin
-Busan
-Ningbo
-Jeddah
-Durban
-Algiers
-Kabul
-Hefei
-Mashhad
-Pyongyang
-Madrid
-Faisalabad
-Baku
-Tangshan
-Ekurhuleni
-Nairobi
-Zhongshan
-Pune
-Addis Ababa
-Jaipur
-Buenos Aires
-Incheon
-Quezon City
-Kiev
-Salvador
-Rome
-Dubai
-Luanda
-Lucknow
-Kaohsiung
-Kanpur
-Surabaya
-Taichung
-Basra
-Toronto
-Taipei
-Chicago
-Osaka
-Quito
-Chaozhou
-Fortaleza
-Chittagong
-Bandung
-Managua
-Brasília
-Belo Horizonte
-Daegu
-Houston
-Douala
-Medellin
-Yaoundé
-Nagpur
-Cali
-Tashkent
-Nagoya
-Isfahan
-Phnom Penh
-Kochi
-Paris
-Ouagadougou
-Lanzhou
-Kano
-Dalian
-Guatemala City
-Havana
-Rawalpindi
-Medan
-Accra
-Visakhapatnam
-Gujranwala
+Singapore
+Suzhou
+Changsha
+Abidjan
+Saint Petersburg
 Jinan
-Karaj
-Peshawar
-Minsk
-Caracas
-Sana'a
-Sapporo
-Tainan
-Bucharest
-Curitiba
-Shiraz
-Vienna
-Brazzaville
-Bhopal
-Hamburg
-Manila
-Kuala Lumpur
-Maputo
-Budapest
-Warsaw
-Lusaka
-Kathmandu
-Tabriz
-Hyderabad
-Palembang
-Almaty
-Tijuana
-Patna
-Montreal
-Davao City
-Harare
-Barcelona
-Maracaibo
-Caloocan
-Philadelphia
-Novosibirsk
-Phoenix
-Bulawayo
-Oran
-Semarang
-Recife
-Kobe
-Daejeon
-Kampala
-Kawasaki
-Guadalajara
-Auckland
-Vijayawada
-Fukuoka
-Kwangju
-Porto Alegre
-Kyoto
-San Antonio
-Santa Cruz de la Sierra
-Munich
-Kharkiv
-Yekaterinburg
-San Diego
-Barranquilla
-Milan
+Dar es Salaam
+Kunming
+Alexandria
+Harbin
+Sydney
+Santiago
+Ankara
+Shijiazhuang
+Hefei
+Melbourne
+Dalian
+Johannesburg
+Cape Town
+Nairobi
+Yangon
+Kano
+Xiamen
+Nanning
+Changchun
+Kabul
+Giza
+Cavite
+Taiyuan
+eThekwini
+Bamako
+Jaipur
+Ekurhuleni
+Tshwane
+New Taipei City
+Guiyang
+Wuxi
+Pune
+Shantou
 Ibadan
-Makassar
-Córdoba
-Prague
-Mandalay
-Dallas
-Montevideo
-Nizhny Novgorod
+Ürümqi
+Los Angeles
+Zhongshan
 Abuja
-Calgary
-Saitama
-Hiroshima
-Rosario
-Brisbane
-Belgrade
-Campinas
-Ulsan
-Omsk
+Lucknow
+Yokohama
+Berlin
+Ningbo
+Fuzhou
+Jeddah
+Bulacan
+Faisalabad
+Casablanca
+Hanoi
+Nanchang
+Addis Ababa
+Port Harcourt
+Laguna
+Busan
+Rizal
+Madrid
+Dubai
+Chittagong
+Kanpur
+Cebu
+Changzhou
+Santo Domingo
+Pyongyang
+Buenos Aires
+Lanzhou
+Mashhad
+Nantong
+Surabaya
+Quezon City
+Tashkent
+Kyiv
+İzmir
+Incheon
+Nagpur
+Kumasi
+Algiers
+Mbuji-Mayi
+Xuzhou
+Taichung
+Brasília
+Lubumbashi
+Toronto
+Douala
+Kaohsiung
+Yaoundé
+Osaka
+Zibo
+Rome
+Linyi
+Chicago
+Gazipur
+Guayaquil
 Dakar
+Baku
+Taipei
+Damascus
+Wenzhou
+Brisbane
+Tangshan
+Sanaa
+Bandung
+Lusaka
+Medellín
+Gujranwala
+Ouagadougou
+Bekasi
+Indore
+Medan
+Fortaleza
+Salvador
+Daegu
+Omdurman
+Mecca
+Hohhot
+Haikou
+Bhopal
+Shaoxing
+Nagoya
+Mogadishu
+Patna
+Belo Horizonte
+Houston
+Accra
+Rawalpindi
+Phnom Penh
+Taoyuan
+Cali
+Luoyang
+Zhuhai
+Liuzhou
+Aleppo
+Perth
+Lomé
+Agra
+Multan
+Almaty
+Brazzaville
+Havana
+Baotou
+Paris
+Handan
+Huizhou
+Caracas
+Manaus
+Bursa
+Weifang
+Metro Clark
+Vienna
+Minsk
+Kuala Lumpur
+Sapporo
+Khartoum
+Khartoum Bahri
+Isfahan
+Faridabad
+Benin City
+Baoding
+Santa Cruz de la Sierra
+Tangerang
+Depok
+Hamburg
+Tainan
+Warsaw
+Thane
+Peshawar
+Amman
+Tijuana
+Datong
+Huai'an
+Yantai
+Jiangmen
+Adana
+Ganzhou
+Davao City
+Curitiba
+Quito
+Montreal
+Monrovia
+Maracaibo
+Kigali
+Visakhapatnam
+Pimpri-Chinchwad
+Bucharest
+Semarang
+Xiangyang
+Belgrade
+Budapest
+Gaziantep
+Kampala
+Xining
+Zunyi
+Palembang
+Vadodara
+Caloocan
+Conakry
+Barcelona
+Kunshan
+Varanasi
+Beirut
+Phoenix
+Ecatepec de Morelos
+Ghaziabad
+Novosibirsk
+Auckland
+Ludhiana
+Fukuoka
+Daqing
+Kisangani
+Wuhu
+Karaj
+León
+Philadelphia
+Shiraz
+Tabriz
+Yekaterinburg
+Navi Mumbai
+Puebla
+Putian
+Ulaanbaatar
+Kawasaki
+Kōbe
+Qinhuangdao
+Zhuzhou
+Jilin
+Munich
+Ciudad Juárez
+Recife
+Harare
+Daejeon
+Hyderabad
+Nashik
+Yiwu
+Anshan
+Gwangju
+Quanzhou
+Kyōto
+Cixi
+San Antonio
+Nouakchott
+Goiânia
+Makassar
+Kharkiv
+Pointe-Noire
+Tai’an
+Medina
+Nanyang
+Porto Alegre
+Quetta
+Zhanjiang
+Chandigarh
+Dammam
+Guadalajara
+San Diego
+Amritsar
+Montevideo
+Konya
+Mossul
+Guilin
+Prague
+Astana
+South Tangerang
+Milan
+Yancheng
+Zaozhuang
+Taizhou
+Shangrao
+Basra
+Jiangyin
+Tegucigalpa
+Saitama
+Antalya
+Antananarivo
+Guwahati
+Córdoba
+Adelaide
+Mombasa
+Meerut
+Kazan
+Maoming
+Calgary
+Belém
+Heze
+Guarulhos
+Dallas
+Rajkot
+Onitsha
+Yichang
+Barranquilla
+Sharjah
+Sofia
+Xinxiang
 Abu Dhabi
-Monterrey
+Zapopan
+Nanchong
+Chaozhou
+Bukavu
+Kalyan-Dombivli
+Bareilly
+Jieyang
+Shubra El Kheima
+Huainan
+Port-au-Prince
+Fès
+Changshu
+Mysore
+Fushun
+Nizhny Novgorod
+Mandalay
+Taguig
+Guatemala City
+Vasai-Virar
+Suwon
+Qom
+Hiroshima
+Qingyuan
+Batam
+Kaifeng
+Srinagar
+Xianyang
+Fuyang
+Nelson Mandela Bay
+Chelyabinsk
+Jiaxing
+Anyang
+Krasnoyarsk
+Doha
+Hengyang
+Tbilisi
+Ahvaz
+Schymkent
 Tripoli
+Samara
+Jinjiang
+Aurangabad
+Kananga
+Bandar Lampung
+Lilongwe
+Dhanbad
+Naypyidaw
+Yinchuan
+Iribarren (Barquisimeto)
+Kaduna
+Rizhao
+Ufa
+Monterrey
 Rostov-on-Don
-T'bilisi
-Fez
+Campinas
 Birmingham
-Yerevan
-Cologne
-Tunis
+Dazhou
+Ulsan
+Luzhou
+Omsk
+Yueyang
+Zhenjiang
+Bishkek
+Prayagraj
 Islamabad
+Baoji
+Mwanza
+Maputo
+Yibin
+Changde
+Krasnodar
+Sendai
+Chifeng
+N'Djamena
+Yerevan
+Diyarbakır
+Tanger
+Panama City
+Cologne
+Huzhou
+Suqian
+Wanzhou
+Bengbu
+Yangzhou
+Ranchi
+Nezahualcóyotl
+Howrah
+Lu’an
+Ottawa
+Yongin
+Coimbatore
+Managua
+Voronezh
+Zhangjiagang
+Jabalpur
+Gwalior
+Vijayawada
+Salé
+Changzhi
+Pingdingshan
+Goyang
+Bogor
+Jinhua
+Mersin
+São Luís
+Zhaoqing
+Asmara
+Perm
+Jodhpur
+Matola
+Shangqiu
+Qiqihar
+Changwon
+Cartagena
+Volgograd
+Niamey
+Jinzhou
+Tshikapa
+Liaocheng
+Madurai
+Xinyang
+Yuyao
+Rui’an
+Edmonton
+Odesa
+Raipur
+Vientiane
+Kota
