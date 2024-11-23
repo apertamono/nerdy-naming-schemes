@@ -23,7 +23,7 @@ Poland
 Russian Federation
 Saudi Arabia
 Syrian Arab Republic
-Turkey
+Türkiye
 Ukraine
 United Kingdom of Great Britain and Northern Ireland
 United States of America
@@ -121,7 +121,7 @@ Botswana
 Lesotho
 Barbados
 Mauritius
-Swaziland
+Eswatini
 Equatorial Guinea
 Fiji
 Bahrain
