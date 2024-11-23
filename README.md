@@ -12,7 +12,7 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Bible.txt](themes/Bible.txt)|Bible books|62|
 |[Bitcoin.txt](themes/Bitcoin.txt)|Bitcoin addresses|64|
 |[Capitals.txt](themes/Capitals.txt)|National capitals|191|
-|[Cities.txt](themes/Cities.txt)|Largest cities in the world|238|
+|[Cities.txt](themes/Cities.txt)|Largest cities in the world|475|
 |[Codes.txt](themes/Codes.txt)|Codes A0-Z9|260|
 |[Coins.txt](themes/Coins.txt)|Cryptocurrencies (2017)|701|
 |[Countries.txt](themes/Countries.txt)|UN member states|193|
