@@ -36,7 +36,7 @@ Athens
 Addis Ababa
 Buenos Aires
 Rome
-Kiev
+Kyiv
 Yaoundé
 Brasília
 Amman
@@ -190,7 +190,7 @@ Palikir
 St. George's
 Valletta
 Vaduz
-City of San Marino
+Città di San Marino
 Funafuti
 Hagåtña
 Ngerulmud
