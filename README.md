@@ -42,14 +42,6 @@ This is a collection of thematic word lists that you could use to name a dozen s
 
 If you want to add a list, please make a pull request with the new file. I will add the description here. It should be a canonical or comprehensive list representing significant cultural heritage or natural phenomena - not just one person's favorites. I try to represent cultures from across the world, while focusing on Latin text for technical reasons.
 
-## History
-
-This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
-
-The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
-
-In 2017, cryptocurrencies securing their own blockchain and other tokens were listed separately, but this distinction isn't so clear anymore, and providers of market cap statistics don't separate their rankings into coins and tokens anymore. I'll keep the lists from 2017 for historical interest.
-
 ## Other collections
 
 I started this collection before I knew the term '[naming scheme](https://en.wikipedia.org/wiki/Computer_network_naming_scheme)'. So I'm not sure whether I know all the relevant sources. Many lists in the collections I found contain explanations and comments, so you can't use them to assign names automatically.
@@ -64,3 +56,11 @@ I started this collection before I knew the term '[naming scheme](https://en.wik
 * The Book of Lists by David Wallechinsky, Amy Wallace and Irving Wallace, 1977 (I have a Dutch translation from 1982).
 * [Emily's Fantasy Name Generators](https://www.fantasynamegenerators.com/) will give you 10 random names out of countless collections of real and made-up names.
 * [Nora Zone](https://nora.zone/) generates funny names and descriptions (one at a time).
+
+## History
+
+This collection wasn't started in an office. Do you remember playing **Sid Meier's Alpha Centauri**? One of the things that made it an epic game was the characters of the faction leaders, *divided not by nationality, but by ideology*. The city names, on the other hand, were not as distinctive. It felt like they were all created by a 19th-century poet. Besides, I needed more names on big maps. So I created my own city names, using semantic domains that seemed suitable for each faction.
+
+The **themes** folder contains the thematic lists in plain text, plus some comments at the start of the file. See the **basenames** folder [in the original *namenlijsten* repo](https://github.com/ProkhorZ/namenlijsten) for the faction files that you'd put in the Alpha Centauri folder. Those lists were a mixture of Dutch and English. This repo is a general collection of thematic word lists in English, not limited to Alpha Centauri factions.
+
+In 2017, cryptocurrencies securing their own blockchain and other tokens were listed separately, but this distinction isn't so clear anymore, and providers of market cap statistics don't separate their rankings into coins and tokens anymore. I'll keep the lists from 2017 for historical interest.
