@@ -1,0 +1,179 @@
+// List of the Earth's largest rivers by discharge (175)
+// Source: https://en.wikipedia.org/wiki/List_of_rivers_by_discharge
+// Simplified some double names and removed the Ganges–Brahmaputra–Meghna system
+
+Amazon
+Congo
+Orinoco
+Yangtze
+Negro
+Madeira
+Río de la Plata
+Brahmaputra
+Mississippi
+Yenisei
+Paraná
+Ganges
+Lena
+Japurá
+St Lawrence
+Marañón
+Mekong
+Irrawaddy
+Tapajós
+Ucayali
+Ob
+Tocantins
+Amur
+Kasai
+Purus
+Mackenzie
+Xingu
+Xi
+Madre de Dios
+Putumayo
+Volga
+Mamoré
+Magdalena
+Ohio
+Niger
+Guaviare
+Columbia
+Fly
+Uruguay
+Yukon
+Napo
+Salween
+Danube
+Araguaia
+Kapuas
+Juruá
+Ubangi
+Niagara
+Meta
+Meghna
+Indus
+Aldan
+Mamberamo
+Branco
+Detroit
+Javari
+St. Clair
+Sepik
+Caroní
+Essequibo
+Juruena
+Ogooué
+Angara
+Pechora
+Chindwin
+Rajang
+Paraguay
+Barito
+Ruki
+Vaupés
+Hong
+Mahakam
+Zambezi
+Atrato
+Nizhnyaya Tunguska
+Kolyma
+Kama
+Apaporis
+Aripuanã
+Grijalva
+Strickland
+Teles Pires
+Fraser
+Digul
+Huallaga
+Godavari
+Caura
+Benue
+Kaladan
+Jutai
+Slave
+Lohit
+Northern Dvina
+Inírida
+Shatt al-Arab
+Nelson
+Purari
+Kikori
+Khatanga
+Pulau
+Nile
+Musi
+Tigre
+Subansiri
+Ghaghara
+Irtysh
+Yamuna
+São Francisco
+Srepok
+Kwango
+Panjnad
+Rhine
+Yarlung Tsangpo
+Beni
+Gan
+Trombetas
+Min
+Xiang
+Koksoak
+Neva
+Pastaza
+Iriri
+Cuyuni
+Mali Hka
+Cross
+Batang Hari
+Amu Darya
+Casiquiare
+Yellow
+Mahanadi
+Pyasina
+Sankuru
+Koshi
+Sangha
+Songhua
+Ghorautra
+Kayan
+Missouri
+Liard
+Guainía
+Guapore
+Ituí
+Rio Grande
+Paragua
+Vitim
+Cauca
+Yarí
+Urubamba
+Jacuí
+San Juan
+Apure
+Uatumã
+Içana
+Jamanxim
+Krishna
+Aruwimi
+Red River
+Ventuari
+Curaray
+Tennessee
+St. Marys
+Canumã
+Tapauá
+Jialing
+Mobile
+Peace
+Olyokma
+Yuan
+Ji-Paraná
+Sanaga
+Lomami
+Hongshui
+Lulonga
+Gandaki
+Anadyr
