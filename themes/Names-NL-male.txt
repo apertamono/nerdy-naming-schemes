@@ -61,7 +61,7 @@ Ties
 Xavi
 Pepijn
 Jax
-Daniël
+DaniÃ«l
 Jurre
 Roan
 Mohamed
@@ -107,7 +107,7 @@ Sepp
 Timo
 Fabian
 Jelle
-Joël
+JoÃ«l
 Daley
 Bas
 Jim
@@ -166,7 +166,7 @@ Omar
 Evan
 Fynn
 Mike
-Ömer
+Ã–mer
 Jesper
 Lev
 Nolan
@@ -226,7 +226,7 @@ Kaj
 Thom
 Ivan
 Johan
-Noël
+NoÃ«l
 Tijmen
 Damin
 Marijn
