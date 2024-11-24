@@ -34,7 +34,8 @@ This is a collection of thematic word lists that you could use to name a dozen s
 |[Nobel-Lit.txt](themes/Nobel-Lit.txt)|Winners of the Nobel Prize for Literature|117|
 |[Numbers.txt](themes/Numbers.txt)|Numerals 000-999|1000|
 |[Prophets.txt](themes/Prophets.txt)|Prophets according to Islam|25|
-|[Stars.txt](themes/Stars.txt)|The brightest celestial bodies|55|
+|[Rivers.txt](themes/Rivers.txt)|Largest rivers by discharge|175|
+|[Stars.txt](themes/Stars.txt)|Brightest celestial bodies|55|
 |[StarTrek.txt](themes/StarTrek.txt)|Star Trek characters|204|
 |[Surnames-US.txt](themes/Surnames-US.txt)|Most common surnames in the USA|1000|
 |[Tokens.txt](themes/Tokens.txt)|Cryptocurrency tokens (2017)|316|
